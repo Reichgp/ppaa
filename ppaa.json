@@ -1,0 +1,2711 @@
+{
+  "settings": {
+    "show_explanation": true,
+    "shuffle_questions": true,
+    "shuffle_options": true,
+    "show_progress": true
+  },
+  "questions": [
+[
+  {
+    "id": "tema1_q1",
+    "type": "single_choice",
+    "question": "¿Cómo se define una situación de emergencia según el temario?",
+    "options": [
+      "Aquella que aparece de modo paulatino y no siempre es grave",
+      "Aquella en la que interviene un componente subjetivo de necesidad de ayuda",
+      "La que compromete la vida de la víctima apareciendo de un modo brusco",
+      "Situación que no entraña riesgo para la vida pero requiere atención médica"
+    ],
+    "correct_answer": "La que compromete la vida de la víctima apareciendo de un modo brusco",
+    "explanation": "Según la autoevaluación del tema, la emergencia se diferencia de la urgencia por ser de aparición brusca y comprometer la vida de la víctima.",
+    "meta": {
+      "original_question_number": 1,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q2",
+    "type": "single_choice",
+    "question": "¿Cuál es el número telefónico para activar el sistema de emergencias a nivel europeo?",
+    "options": [
+      "061",
+      "112",
+      "911",
+      "091"
+    ],
+    "correct_answer": "112",
+    "explanation": "El texto indica explícitamente que el 112 es el número único y gratuito para activar el sistema de emergencias a nivel europeo.",
+    "meta": {
+      "original_question_number": 2,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q3",
+    "type": "single_choice",
+    "question": "En la definición de primeros auxilios, ¿qué tipo de material se utiliza principalmente?",
+    "options": [
+      "Material especializado de centros sanitarios",
+      "Material de alta tecnología para emergencias",
+      "Material prácticamente improvisado",
+      "Instrumental médico quirúrgico"
+    ],
+    "correct_answer": "Material prácticamente improvisado",
+    "explanation": "Los primeros auxilios se definen como la atención inicial realizada con material prácticamente improvisado hasta la llegada de personal especializado.",
+    "meta": {
+      "original_question_number": 3,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q4",
+    "type": "single_choice",
+    "question": "¿Quién es considerado un socorrista según el manual?",
+    "options": [
+      "Solo personal con título de enfermería o medicina",
+      "Cualquier persona que toma la decisión de intervenir con conocimientos básicos",
+      "Únicamente los miembros de protección civil",
+      "Cualquier persona que presencia un accidente, aunque no intervenga"
+    ],
+    "correct_answer": "Cualquier persona que toma la decisión de intervenir con conocimientos básicos",
+    "explanation": "El socorrista es cualquier persona que toma la decisión de intervenir y prestar primeros auxilios, teniendo los conocimientos básicos necesarios.",
+    "meta": {
+      "original_question_number": 4,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q5",
+    "type": "single_choice",
+    "question": "¿Cuál es el orden correcto de la conducta P.A.S.?",
+    "options": [
+      "Prevenir, Avisar, Socorrer",
+      "Proteger, Alertar, Socorrer",
+      "Parar, Auxiliar, Salvar",
+      "Proteger, Avisar, Sanar"
+    ],
+    "correct_answer": "Proteger, Alertar, Socorrer",
+    "explanation": "La conducta PAS responde a las siglas de Proteger (lugar, socorrista y víctimas), Alertar (llamar al 112) y Socorrer (evaluación inicial).",
+    "meta": {
+      "original_question_number": 5,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q6",
+    "type": "single_choice",
+    "question": "¿Qué premisa básica debe seguir el socorrista antes de intervenir?",
+    "options": [
+      "Mover a la víctima rápidamente al hospital",
+      "No debemos hacer daño con nuestra intervención",
+      "Administrar calmantes de inmediato",
+      "Extraer cuerpos extraños de las heridas"
+    ],
+    "correct_answer": "No debemos hacer daño con nuestra intervención",
+    "explanation": "Una premisa básica es que no debemos hacer daño con nuestra intervención, evitando mover a la víctima si no hay peligro real para su vida.",
+    "meta": {
+      "original_question_number": 6,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q7",
+    "type": "single_choice",
+    "question": "¿Cuál es el objetivo de la valoración primaria?",
+    "options": [
+      "Identificar fracturas leves en las extremidades",
+      "Verificar si la vida de la víctima corre peligro (urgencia vital)",
+      "Realizar un inventario de los objetos personales del herido",
+      "Determinar la temperatura exacta de la víctima"
+    ],
+    "correct_answer": "Verificar si la vida de la víctima corre peligro (urgencia vital)",
+    "explanation": "En la valoración primaria el objetivo es verificar si la vida de la víctima corre peligro mediante el esquema ABCD.",
+    "meta": {
+      "original_question_number": 7,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q8",
+    "type": "single_choice",
+    "question": "Dentro del esquema ABCD, ¿qué significa la letra 'A'?",
+    "options": [
+      "Alert (Alerta)",
+      "Airway (Vía aérea)",
+      "Asistance (Asistencia)",
+      "Assessment (Evaluación)"
+    ],
+    "correct_answer": "Airway (Vía aérea)",
+    "explanation": "La 'A' corresponde a Airway, que consiste en la apertura de la vía aérea mediante la maniobra frente-mentón.",
+    "meta": {
+      "original_question_number": 8,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q9",
+    "type": "single_choice",
+    "question": "¿Qué evalúa la letra 'D' del esquema ABCD?",
+    "options": [
+      "Deformidades óseas",
+      "Dolor agudo",
+      "Disability (Déficit neurológico)",
+      "Digestión y alimentación"
+    ],
+    "correct_answer": "Disability (Déficit neurológico)",
+    "explanation": "La 'D' corresponde a Disability, que implica una pequeña evaluación neurológica para comprobar el sistema nervioso.",
+    "meta": {
+      "original_question_number": 9,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q10",
+    "type": "single_choice",
+    "question": "¿Cuál es el primer paso para comprobar la consciencia de una persona?",
+    "options": [
+      "Pincharle con una aguja",
+      "Gritarle al oído con fuerza",
+      "Observar si realiza algún movimiento",
+      "Agitar sus hombros con brusquedad"
+    ],
+    "correct_answer": "Observar si realiza algún movimiento",
+    "explanation": "El procedimiento rápido es: primero observar movimientos, segundo comprobar respuesta verbal y tercero agitar hombros sin brusquedad.",
+    "meta": {
+      "original_question_number": 10,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q11",
+    "type": "single_choice",
+    "question": "¿Qué indica la técnica VOS al valorar la respiración?",
+    "options": [
+      "Ver, Oler, Sentir",
+      "Valorar, Observar, Socorrer",
+      "Ver, Oír, Sentir",
+      "Vigilar, Ordenar, Salvar"
+    ],
+    "correct_answer": "Ver, Oír, Sentir",
+    "explanation": "La valoración de la respiración se realiza mediante la técnica 'ver, oír y sentir' la respiración en la mejilla.",
+    "meta": {
+      "original_question_number": 11,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q12",
+    "type": "single_choice",
+    "question": "¿En qué posición se coloca a una víctima inconsciente que respira con normalidad?",
+    "options": [
+      "Decúbito supino (boca arriba)",
+      "Posición de Trendelenburg",
+      "Posición Lateral de Seguridad (PLS)",
+      "Sentado con los pies colgando"
+    ],
+    "correct_answer": "Posición Lateral de Seguridad (PLS)",
+    "explanation": "La PLS es la posición de espera para evitar que un posible vómito obstruya la respiración en víctimas inconscientes que sí respiran.",
+    "meta": {
+      "original_question_number": 12,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q13",
+    "type": "single_choice",
+    "question": "¿Qué técnica de recogida de información se usa con las víctimas conscientes?",
+    "options": [
+      "Técnica SHORT",
+      "Técnica OPUMA",
+      "Escala de Glasgow",
+      "Protocolo PAS"
+    ],
+    "correct_answer": "Técnica OPUMA",
+    "explanation": "La técnica OPUMA permite recoger detalles importantes del accidente y antecedentes médicos del paciente.",
+    "meta": {
+      "original_question_number": 13,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q14",
+    "type": "single_choice",
+    "question": "En la técnica OPUMA, ¿qué representa la letra 'M'?",
+    "options": [
+      "Motivo del accidente",
+      "Medicación que toma de forma habitual",
+      "Movilidad de las extremidades",
+      "Miedo o estado psicológico"
+    ],
+    "correct_answer": "Medicación que toma de forma habitual",
+    "explanation": "La regla OPUMA se desglosa en: Ocurrido, Antecedentes, Última ingesta, Medicación y Alergias.",
+    "meta": {
+      "original_question_number": 14,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q15",
+    "type": "single_choice",
+    "question": "¿Qué es el triaje según el temario?",
+    "options": [
+      "Un tratamiento médico avanzado",
+      "Un protocolo de clasificación de víctimas según gravedad",
+      "La limpieza sistemática de un accidente",
+      "Un método para identificar al culpable del siniestro"
+    ],
+    "correct_answer": "Un protocolo de clasificación de víctimas según gravedad",
+    "explanation": "El triaje evalúa el número de víctimas y su estado para establecer prioridades de atención, especialmente en múltiples heridos.",
+    "meta": {
+      "original_question_number": 15,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q16",
+    "type": "single_choice",
+    "question": "¿Para quién está diseñado específicamente el método de triaje SHORT?",
+    "options": [
+      "Médicos intensivistas",
+      "Personal no sanitario (policía, bomberos, etc.)",
+      "Personal de enfermería de urgencias",
+      "Conductores de ambulancia exclusivamente"
+    ],
+    "correct_answer": "Personal no sanitario (policía, bomberos, etc.)",
+    "explanation": "El método SHORT se trata de un triaje inicial para personal no sanitario ante incidentes con múltiples víctimas.",
+    "meta": {
+      "original_question_number": 16,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q17",
+    "type": "single_choice",
+    "question": "En el método SHORT, si una víctima sale caminando, ¿qué color de etiqueta se le asigna?",
+    "options": [
+      "Roja",
+      "Amarilla",
+      "Verde",
+      "Negra"
+    ],
+    "correct_answer": "Verde",
+    "explanation": "El primer paso del método SHORT es ver si pueden caminar; en ese caso se clasifican con el color verde.",
+    "meta": {
+      "original_question_number": 17,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q18",
+    "type": "single_choice",
+    "question": "Según el método SHORT, una víctima inconsciente que respira tras abrir la vía aérea es prioridad:",
+    "options": [
+      "Verde",
+      "Amarilla",
+      "Roja",
+      "Negra"
+    ],
+    "correct_answer": "Roja",
+    "explanation": "Si la víctima respira pero está inconsciente, se clasifica con el color rojo (Prioridad 1).",
+    "meta": {
+      "original_question_number": 18,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q19",
+    "type": "single_choice",
+    "question": "¿Qué color de etiqueta identifica a las víctimas que no respiran tras abrir la vía aérea en el método SHORT?",
+    "options": [
+      "Roja",
+      "Verde",
+      "Negra",
+      "Blanca"
+    ],
+    "correct_answer": "Negra",
+    "explanation": "Si tras abrir la vía aérea la víctima no respira ni realiza movimientos, se clasifica de color negro.",
+    "meta": {
+      "original_question_number": 19,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q20",
+    "type": "single_choice",
+    "question": "¿Qué paso del método SHORT debe aplicarse simultáneamente con los demás?",
+    "options": [
+      "Valorar la consciencia",
+      "Abrir la vía aérea",
+      "Taponar hemorragias",
+      "Pedir el nombre a la víctima"
+    ],
+    "correct_answer": "Taponar hemorragias",
+    "explanation": "El temario especifica que 'taponar hemorragias' debe aplicarse simultáneamente con las demás fases del método SHORT.",
+    "meta": {
+      "original_question_number": 20,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q21",
+    "type": "single_choice",
+    "question": "¿Cómo debe ser la respuesta del socorrista al llamar al 112?",
+    "options": [
+      "Explicar con todo detalle la historia clínica del herido",
+      "Responder de manera escueta a lo que demande el operador",
+      "Hablar lo más rápido posible sin identificarse",
+      "Colgar en cuanto se diga la dirección"
+    ],
+    "correct_answer": "Responder de manera escueta a lo que demande el operador",
+    "explanation": "Al llamar al 112 se debe transmitir solo la información demandada y responder de manera escueta para no retrasar la ayuda.",
+    "meta": {
+      "original_question_number": 21,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q22",
+    "type": "single_choice",
+    "question": "¿Quién debe colgar en último lugar en una llamada al servicio de emergencias?",
+    "options": [
+      "El socorrista siempre",
+      "La víctima si está consciente",
+      "El operador del 112",
+      "Nadie, se corta automáticamente"
+    ],
+    "correct_answer": "El socorrista siempre",
+    "explanation": "El protocolo indica que el socorrista debe ser el último en colgar tras asegurarse de que el operador tiene toda la información.",
+    "meta": {
+      "original_question_number": 22,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema1_q23",
+    "type": "single_choice",
+    "question": "¿Cuál de estos huesos NO pertenece al tronco según la clasificación del tema?",
+    "options": [
+      "Esternón",
+      "Costillas",
+      "Vértebras",
+      "Peroné"
+    ],
+    "correct_answer": "Peroné",
+    "explanation": "El peroné es un hueso de las extremidades inferiores. El tronco incluye clavícula, omóplato, costillas, esternón, vértebras y pelvis.",
+    "meta": {
+      "original_question_number": 23,
+      "correct_letter": "D"
+    },
+    "correct_index": 3
+  },
+  {
+    "id": "tema1_q24",
+    "type": "single_choice",
+    "question": "¿Qué huesos forman la articulación del hombro?",
+    "options": [
+      "Cúbito y radio",
+      "Clavícula, omóplato y húmero",
+      "Fémur y pelvis",
+      "Esternón y costillas"
+    ],
+    "correct_answer": "Clavícula, omóplato y húmero",
+    "explanation": "Según el sistema esquelético detallado en el PDF, la clavícula, el omóplato y el húmero forman la articulación del hombro.",
+    "meta": {
+      "original_question_number": 24,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q25",
+    "type": "single_choice",
+    "question": "¿Cuál es el orden correcto del aire en el aparato respiratorio?",
+    "options": [
+      "Nariz, laringe, faringe, tráquea",
+      "Nariz, faringe, laringe, tráquea",
+      "Boca, tráquea, faringe, laringe",
+      "Nariz, tráquea, laringe, bronquios"
+    ],
+    "correct_answer": "Nariz, faringe, laringe, tráquea",
+    "explanation": "El orden correcto de las vías respiratorias según el ejercicio de relacionar es: 1. Nariz, 2. Faringe, 3. Laringe, 4. Tráquea.",
+    "meta": {
+      "original_question_number": 25,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q26",
+    "type": "single_choice",
+    "question": "¿Qué vasos sanguíneos transportan la sangre desde el corazón a los tejidos?",
+    "options": [
+      "Venas",
+      "Capilares",
+      "Arterias",
+      "Linfáticos"
+    ],
+    "correct_answer": "Arterias",
+    "explanation": "El temario aclara en la autoevaluación que las arterias transportan la sangre desde el corazón a los tejidos.",
+    "meta": {
+      "original_question_number": 26,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q27",
+    "type": "single_choice",
+    "question": "¿Dónde se realiza el intercambio de nutrientes entre la sangre y los tejidos?",
+    "options": [
+      "En las arterias principales",
+      "En las venas cavas",
+      "En los capilares",
+      "Solo en el corazón"
+    ],
+    "correct_answer": "En los capilares",
+    "explanation": "El intercambio de nutrientes se realiza en los capilares, que son los vasos más pequeños.",
+    "meta": {
+      "original_question_number": 27,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q28",
+    "type": "single_choice",
+    "question": "¿Qué constantes vitales son indicadores del estado de salud de una persona?",
+    "options": [
+      "Color de ojos y estatura",
+      "Pulso, respiración y temperatura corporal",
+      "Número de calzado y peso",
+      "Capacidad auditiva y visual"
+    ],
+    "correct_answer": "Pulso, respiración y temperatura corporal",
+    "explanation": "Las constantes vitales mencionadas son temperatura corporal, respiración, pulso y tensión arterial.",
+    "meta": {
+      "original_question_number": 28,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q29",
+    "type": "single_choice",
+    "question": "¿Cuál es el rango de temperatura normal del cuerpo humano?",
+    "options": [
+      "35 a 36 ºC",
+      "36 a 37 ºC",
+      "37 a 38 ºC",
+      "38 a 39 ºC"
+    ],
+    "correct_answer": "36 a 37 ºC",
+    "explanation": "Los valores normales de la temperatura corporal oscilan entre los 36 y 37 grados centígrados.",
+    "meta": {
+      "original_question_number": 29,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q30",
+    "type": "single_choice",
+    "question": "¿A partir de qué temperatura se considera que una persona tiene fiebre?",
+    "options": [
+      "37,1 ºC",
+      "37,5 ºC",
+      "38 ºC",
+      "39 ºC"
+    ],
+    "correct_answer": "38 ºC",
+    "explanation": "El texto define febrícula entre 37,1 y 37,9 ºC, y fiebre a partir de los 38 ºC.",
+    "meta": {
+      "original_question_number": 30,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q31",
+    "type": "single_choice",
+    "question": "¿Cuándo se considera situación de emergencia por temperatura corporal extrema?",
+    "options": [
+      "Por encima de 38 ºC",
+      "Por debajo de 35 ºC",
+      "Superiores a 41 ºC e inferiores a 32 ºC",
+      "Solo si supera los 40 ºC"
+    ],
+    "correct_answer": "Superiores a 41 ºC e inferiores a 32 ºC",
+    "explanation": "Son situaciones de emergencia las temperaturas superiores a 41 ºC e inferiores a 32 ºC.",
+    "meta": {
+      "original_question_number": 31,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q32",
+    "type": "single_choice",
+    "question": "¿Qué indica una respiración agónica o 'gasping'?",
+    "options": [
+      "Que la víctima está fuera de peligro",
+      "Es un signo de parada cardiorrespiratoria",
+      "Que el paciente tiene asma leve",
+      "Que la persona está profundamente dormida"
+    ],
+    "correct_answer": "Es un signo de parada cardiorrespiratoria",
+    "explanation": "El socorrista reconoce el paro por la pérdida de consciencia y la ausencia de respiración (o presencia de respiración agónica o gasping).",
+    "meta": {
+      "original_question_number": 32,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q33",
+    "type": "single_choice",
+    "question": "¿Qué es lo primero que se debe hacer para valorar a un herido?",
+    "options": [
+      "Tomarle el pulso arterial",
+      "Comprobar la consciencia",
+      "Llamar a sus familiares",
+      "Realizar la valoración secundaria"
+    ],
+    "correct_answer": "Comprobar la consciencia",
+    "explanation": "En el algoritmo de valoración primaria, lo primero es comprobar la consciencia antes de pedir ayuda o abrir vía aérea.",
+    "meta": {
+      "original_question_number": 33,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q34",
+    "type": "single_choice",
+    "question": "¿Cuándo se debe realizar la valoración secundaria?",
+    "options": [
+      "Antes de la valoración primaria",
+      "Nada más llegar al lugar del suceso",
+      "Una vez descartado el riesgo vital",
+      "Solo si la víctima es un niño"
+    ],
+    "correct_answer": "Una vez descartado el riesgo vital",
+    "explanation": "La valoración secundaria se realiza una vez que se ha descartado el riesgo vital para la persona.",
+    "meta": {
+      "original_question_number": 34,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q35",
+    "type": "single_choice",
+    "question": "¿En qué consiste la valoración secundaria?",
+    "options": [
+      "En una exploración detallada de la cabeza a los pies",
+      "En realizar una RCP inmediata",
+      "En verificar solo el pulso radial",
+      "En interrogar a los testigos del accidente"
+    ],
+    "correct_answer": "En una exploración detallada de la cabeza a los pies",
+    "explanation": "Consiste en la exploración detallada y ordenada de la víctima de la cabeza a los pies en busca de lesiones no vitales.",
+    "meta": {
+      "original_question_number": 35,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema1_q36",
+    "type": "single_choice",
+    "question": "¿Qué color de etiqueta identifica a las víctimas de menor gravedad (molestias menores)?",
+    "options": [
+      "Verde",
+      "Blanca",
+      "Amarilla",
+      "Azul"
+    ],
+    "correct_answer": "Blanca",
+    "explanation": "Según la tabla de clasificación de triage, la etiqueta blanca identifica a víctimas no urgentes con problemas menores o crónicos.",
+    "meta": {
+      "original_question_number": 36,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q37",
+    "type": "single_choice",
+    "question": "¿Cuál es el primer eslabón de la cadena de supervivencia?",
+    "options": [
+      "RCP precoz",
+      "Desfibrilación",
+      "Identificación precoz y llamada al 112",
+      "Soporte vital avanzado"
+    ],
+    "correct_answer": "Identificación precoz y llamada al 112",
+    "explanation": "El primer eslabón es la identificación precoz de la parada y la llamada inmediata al 112.",
+    "meta": {
+      "original_question_number": 37,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q38",
+    "type": "single_choice",
+    "question": "¿Dónde debe colocarse el botiquín de primeros auxilios?",
+    "options": [
+      "En la cocina, cerca de la humedad",
+      "En un lugar fresco, seco y fuera del alcance de niños",
+      "Bajo llave en una caja fuerte",
+      "Siempre dentro de la nevera"
+    ],
+    "correct_answer": "En un lugar fresco, seco y fuera del alcance de niños",
+    "explanation": "El botiquín debe estar en un lugar fresco y seco, inaccesible para los niños pero fácil de abrir para adultos.",
+    "meta": {
+      "original_question_number": 38,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q39",
+    "type": "single_choice",
+    "question": "¿Para qué sirve el algodón en un botiquín según el manual?",
+    "options": [
+      "Para limpiar directamente heridas abiertas",
+      "Para forrar tablillas y desinfectar instrumental",
+      "Para taponar hemorragias arteriales",
+      "No debe haber algodón en el botiquín"
+    ],
+    "correct_answer": "Para forrar tablillas y desinfectar instrumental",
+    "explanation": "El algodón se utiliza para forrar tablillas o desinfectar instrumental, nunca directamente sobre heridas abiertas porque dificulta la cicatrización.",
+    "meta": {
+      "original_question_number": 39,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q40",
+    "type": "single_choice",
+    "question": "¿Qué antiséptico es de elección para niños menores de 3 años y embarazadas?",
+    "options": [
+      "Alcohol de 96º",
+      "Povidona Yodada",
+      "Clorhexidina",
+      "Agua oxigenada"
+    ],
+    "correct_answer": "Clorhexidina",
+    "explanation": "La Clorhexidina es la mejor opción para intolerantes al yodo, niños pequeños y mujeres embarazadas.",
+    "meta": {
+      "original_question_number": 40,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q41",
+    "type": "single_choice",
+    "question": "¿Cuál es la función del suero fisiológico en el botiquín?",
+    "options": [
+      "Desinfectar el instrumental",
+      "Lavar heridas y quemaduras",
+      "Actuar como calmante del dolor",
+      "Sustituir a la povidona yodada"
+    ],
+    "correct_answer": "Lavar heridas y quemaduras",
+    "explanation": "El suero fisiológico se utiliza para lavar heridas y quemaduras, además de como descongestionante nasal.",
+    "meta": {
+      "original_question_number": 41,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q42",
+    "type": "single_choice",
+    "question": "¿Qué no debe contener un botiquín en el ámbito laboral según el manual?",
+    "options": [
+      "Gasas estériles",
+      "Medicamentos",
+      "Vendas de gasa",
+      "Tijeras y pinzas"
+    ],
+    "correct_answer": "Medicamentos",
+    "explanation": "El manual indica que en empresas no debe haber medicamentos a menos que el responsable esté legalmente capacitado.",
+    "meta": {
+      "original_question_number": 42,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q43",
+    "type": "single_choice",
+    "question": "¿Cada cuánto tiempo se debe revisar el botiquín?",
+    "options": [
+      "Solo cuando se termine un producto",
+      "Una vez al año exclusivamente",
+      "Periódicamente, verificando caducidad y reposición",
+      "Cada vez que haya un accidente grave"
+    ],
+    "correct_answer": "Periódicamente, verificando caducidad y reposición",
+    "explanation": "Se debe revisar periódicamente para reponer material usado y verificar la fecha de caducidad.",
+    "meta": {
+      "original_question_number": 43,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q44",
+    "type": "single_choice",
+    "question": "¿Qué reconoce el Código Penal en su Artículo 195 respecto al auxilio?",
+    "options": [
+      "La libertad de no ayudar si hay sangre",
+      "La omisión del deber de socorro",
+      "La obligación de ser médico para ayudar",
+      "El derecho a cobrar por el auxilio prestado"
+    ],
+    "correct_answer": "La omisión del deber de socorro",
+    "explanation": "El Artículo 195 del Código Penal español reconoce la omisión del deber de socorro como delito.",
+    "meta": {
+      "original_question_number": 44,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q45",
+    "type": "single_choice",
+    "question": "¿Cuándo puede una víctima rechazar legalmente nuestra asistencia?",
+    "options": [
+      "En cualquier momento, sin importar su estado",
+      "Si es menor de edad y está consciente",
+      "Si es mayor de edad y está en posesión de sus facultades mentales",
+      "Nunca puede rechazarla si hay riesgo vital"
+    ],
+    "correct_answer": "Si es mayor de edad y está en posesión de sus facultades mentales",
+    "explanation": "La víctima puede rechazar la asistencia si es mayor de edad y está en plena posesión de sus facultades mentales.",
+    "meta": {
+      "original_question_number": 45,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema1_q46",
+    "type": "single_choice",
+    "question": "En el caso del motorista accidentado, ¿cuándo es preferible no intervenir?",
+    "options": [
+      "Si no estamos seguros de lo que debemos hacer",
+      "Siempre hay que moverlo para que esté cómodo",
+      "Si no tiene el casco puesto",
+      "Solo si hay un médico presente"
+    ],
+    "correct_answer": "Si no estamos seguros de lo que debemos hacer",
+    "explanation": "Si no se está seguro de la actuación, es preferible no intervenir directamente sobre la víctima para evitar lesiones irreversibles.",
+    "meta": {
+      "original_question_number": 46,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema1_q47",
+    "type": "single_choice",
+    "question": "¿Qué indica la 'C' en el esquema de valoración primaria ABCD?",
+    "options": [
+      "Consciencia",
+      "Circulación y control de hemorragias",
+      "Cuidado de heridas",
+      "Calor corporal"
+    ],
+    "correct_answer": "Circulación y control de hemorragias",
+    "explanation": "La 'C' corresponde a Circulation, centrada en el control de hemorragias y valoración del pulso.",
+    "meta": {
+      "original_question_number": 47,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q48",
+    "type": "single_choice",
+    "question": "¿Qué escala se menciona para valorar el estado de consciencia en la valoración primaria?",
+    "options": [
+      "Escala SHORT",
+      "Escala AVDN",
+      "Escala Utstein",
+      "Escala OPUMA"
+    ],
+    "correct_answer": "Escala AVDN",
+    "explanation": "Se utiliza la escala AVDN: Alerta, Verbal, Dolor, No responde.",
+    "meta": {
+      "original_question_number": 48,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema1_q49",
+    "type": "single_choice",
+    "question": "¿Qué es lo primero que debemos hacer al 'Socorrer'?",
+    "options": [
+      "Hacer un recuento de las víctimas",
+      "Mover a los heridos al arcén",
+      "Vendar todas las heridas visibles",
+      "Llamar a los familiares de los heridos"
+    ],
+    "correct_answer": "Hacer un recuento de las víctimas",
+    "explanation": "Al socorrer, el primer paso es hacer un recuento de víctimas pensando en posibles víctimas ocultas.",
+    "meta": {
+      "original_question_number": 49,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema1_q50",
+    "type": "single_choice",
+    "question": "¿A quién se debe atender primero según las prioridades de socorro?",
+    "options": [
+      "Al que más grite pidiendo ayuda",
+      "A los que estén conscientes con heridas leves",
+      "A las víctimas inconscientes con riesgo vital",
+      "A los familiares de las víctimas que estén llorando"
+    ],
+    "correct_answer": "A las víctimas inconscientes con riesgo vital",
+    "explanation": "No se debe atender primero al más grave o al que más grite; se requiere un rápido reconocimiento para priorizar a los inconscientes.",
+    "meta": {
+      "original_question_number": 50,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q1",
+    "type": "single_choice",
+    "question": "¿Qué implica el concepto de Soporte Vital Básico (SVB)?",
+    "options": [
+      "Solo conocer las técnicas de RCP manual",
+      "Utilizar desfibriladores y RCP básica",
+      "Aplicar técnicas complejas con medicación hospitalaria",
+      "Solo llamar al 112 sin tocar a la víctima"
+    ],
+    "correct_answer": "Utilizar desfibriladores y RCP básica",
+    "explanation": "El SVB incluye las medidas aplicadas hasta la llegada de sanitarios: reconocimiento, solicitud de ayuda, RCP y desfibrilación precoz.",
+    "meta": {
+      "original_question_number": 1,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q2",
+    "type": "single_choice",
+    "question": "¿En cuánto tiempo se produce la muerte de las células cerebrales tras cesar el aporte de oxígeno?",
+    "options": [
+      "De 1 a 2 minutos",
+      "De 4 a 6 minutos",
+      "A los 10 minutos exactos",
+      "Tras 20 minutos de espera"
+    ],
+    "correct_answer": "De 4 a 6 minutos",
+    "explanation": "Al cesar el aporte de oxígeno, se produce la muerte biológica (células cerebrales) en un tiempo aproximado de cuatro a seis minutos.",
+    "meta": {
+      "original_question_number": 2,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q3",
+    "type": "single_choice",
+    "question": "¿Qué caracteriza a la muerte clínica frente a la muerte biológica?",
+    "options": [
+      "La muerte clínica es irreversible siempre",
+      "La muerte clínica es la detención del latido y respiración, y es reversible",
+      "La muerte biológica ocurre antes que la clínica",
+      "En la muerte clínica las células cerebrales ya han muerto"
+    ],
+    "correct_answer": "La muerte clínica es la detención del latido y respiración, y es reversible",
+    "explanation": "La muerte clínica consiste en la detención del latido cardiaco y de la respiración y es reversible mediante maniobras inmediatas.",
+    "meta": {
+      "original_question_number": 3,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q4",
+    "type": "single_choice",
+    "question": "¿Cómo se denomina al ritmo cardiaco superior a 100 latidos por minuto en reposo?",
+    "options": [
+      "Bradicardia",
+      "Fibrilación",
+      "Taquicardia",
+      "Asistolia"
+    ],
+    "correct_answer": "Taquicardia",
+    "explanation": "Cuando el ritmo cardiaco está anormalmente acelerado (por encima de 100 latidos por minuto), se habla de taquicardia.",
+    "meta": {
+      "original_question_number": 4,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q5",
+    "type": "single_choice",
+    "question": "¿Cuál es la causa de más del 70% de las paradas cardiacas en adultos?",
+    "options": [
+      "Bradicardia extrema",
+      "Asistolia",
+      "Fibrilación ventricular (FV)",
+      "Ataque de asma"
+    ],
+    "correct_answer": "Fibrilación ventricular (FV)",
+    "explanation": "La fibrilación ventricular (FV) ocasiona más del 70% de las paradas cardiacas en adultos.",
+    "meta": {
+      "original_question_number": 5,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q6",
+    "type": "single_choice",
+    "question": "¿Qué es la asistolia?",
+    "options": [
+      "Un ritmo cardiaco muy rápido y coordinado",
+      "La ausencia completa de actividad eléctrica cardiaca",
+      "Un temblor ineficaz de los ventrículos",
+      "Un aumento súbito de la tensión arterial"
+    ],
+    "correct_answer": "La ausencia completa de actividad eléctrica cardiaca",
+    "explanation": "La asistolia se define como la ausencia completa de actividad eléctrica cardiaca (línea plana en el monitor).",
+    "meta": {
+      "original_question_number": 6,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q7",
+    "type": "single_choice",
+    "question": "¿Cuál es el segundo eslabón de la cadena de supervivencia según las guías ERC 2025?",
+    "options": [
+      "Reconocimiento temprano",
+      "RCP y desfibrilación precoces",
+      "Cuidados postresucitación",
+      "Recuperación y calidad de vida"
+    ],
+    "correct_answer": "RCP y desfibrilación precoces",
+    "explanation": "Las guías ERC 2025 consideran el segundo eslabón como una intervención única de RCP y desfibrilación precoces.",
+    "meta": {
+      "original_question_number": 7,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q8",
+    "type": "single_choice",
+    "question": "¿En qué posición debe estar la víctima para realizar el masaje cardiaco?",
+    "options": [
+      "Posición lateral de seguridad",
+      "Decúbito prono (boca abajo)",
+      "Decúbito supino (boca arriba)",
+      "Sentado en una silla firme"
+    ],
+    "correct_answer": "Decúbito supino (boca arriba)",
+    "explanation": "Para realizar el masaje cardiaco la víctima tiene que estar en posición decúbito supino sobre una superficie firme.",
+    "meta": {
+      "original_question_number": 8,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q9",
+    "type": "single_choice",
+    "question": "¿Dónde se sitúa exactamente el punto para realizar las compresiones torácicas en adultos?",
+    "options": [
+      "En la parte superior del pecho",
+      "En el centro del abdomen",
+      "En el centro del pecho (mitad inferior del esternón)",
+      "Sobre el lado izquierdo del pecho"
+    ],
+    "correct_answer": "En el centro del pecho (mitad inferior del esternón)",
+    "explanation": "Elegimos el punto de masaje cardiaco situado en el centro del pecho, aproximadamente en la mitad inferior del esternón.",
+    "meta": {
+      "original_question_number": 9,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q10",
+    "type": "single_choice",
+    "question": "¿Qué profundidad deben alcanzar las compresiones torácicas en un adulto?",
+    "options": [
+      "Al menos 3 cm pero no más de 4 cm",
+      "Entre 5 cm y 6 cm",
+      "Siempre más de 7 cm",
+      "Solo 2 cm para no romper costillas"
+    ],
+    "correct_answer": "Entre 5 cm y 6 cm",
+    "explanation": "Debemos comprimir el esternón hacia abajo al menos 5 cm pero no más de 6 cm.",
+    "meta": {
+      "original_question_number": 10,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q11",
+    "type": "single_choice",
+    "question": "¿Cuál es el ritmo de compresiones recomendado por minuto?",
+    "options": [
+      "60 a 80 compresiones",
+      "80 a 100 compresiones",
+      "100 a 120 compresiones",
+      "Más de 140 compresiones"
+    ],
+    "correct_answer": "100 a 120 compresiones",
+    "explanation": "Las compresiones torácicas deben hacerse con un ritmo de 100-120 compresiones por minuto.",
+    "meta": {
+      "original_question_number": 11,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q12",
+    "type": "single_choice",
+    "question": "¿Cuál es la relación entre compresiones y ventilaciones en la RCP de adultos?",
+    "options": [
+      "15 compresiones y 2 ventilaciones",
+      "30 compresiones y 5 ventilaciones",
+      "30 compresiones y 2 ventilaciones",
+      "10 compresiones y 1 ventilación"
+    ],
+    "correct_answer": "30 compresiones y 2 ventilaciones",
+    "explanation": "Una vez que llegamos a 30 compresiones realizamos dos insuflaciones. La pauta es 30:2.",
+    "meta": {
+      "original_question_number": 12,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q13",
+    "type": "single_choice",
+    "question": "¿Qué duración debe tener cada insuflación en la ventilación artificial?",
+    "options": [
+      "Aproximadamente 1 segundo",
+      "Al menos 3 segundos",
+      "5 segundos para llenar bien los pulmones",
+      "Menos de medio segundo"
+    ],
+    "correct_answer": "Aproximadamente 1 segundo",
+    "explanation": "La recomendación actual es realizar insuflaciones de aproximadamente 1 segundo con el volumen suficiente para que se eleve el tórax.",
+    "meta": {
+      "original_question_number": 13,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema2_q14",
+    "type": "single_choice",
+    "question": "¿Cuándo se puede realizar RCP solo con compresiones torácicas?",
+    "options": [
+      "Siempre, es el método preferido actualmente",
+      "Si el reanimador no puede, no sabe o no quiere hacer el boca a boca",
+      "Solo si la víctima es un familiar directo",
+      "Únicamente si disponemos de una mascarilla"
+    ],
+    "correct_answer": "Si el reanimador no puede, no sabe o no quiere hacer el boca a boca",
+    "explanation": "Si no puede, no sabe o no quiere hacer la respiración boca a boca, dé solamente las compresiones torácicas de forma continuada.",
+    "meta": {
+      "original_question_number": 14,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q15",
+    "type": "single_choice",
+    "question": "En una víctima sospechosa de COVID-19, ¿cómo debe actuar el socorrista?",
+    "options": [
+      "Realizar RCP normal 30:2",
+      "Realizar solo ventilaciones",
+      "Realizar solo compresiones torácicas y utilizar el DEA",
+      "No intervenir bajo ningún concepto"
+    ],
+    "correct_answer": "Realizar solo compresiones torácicas y utilizar el DEA",
+    "explanation": "En víctimas sospechosas de COVID-19, inicie las compresiones torácicas y no realice ventilaciones a la víctima.",
+    "meta": {
+      "original_question_number": 15,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q16",
+    "type": "single_choice",
+    "question": "¿Qué medida de protección adicional se recomienda en RCP COVID-19?",
+    "options": [
+      "Lavar a la víctima con alcohol antes de empezar",
+      "Poner una mascarilla en la boca de la víctima y el socorrista",
+      "Realizar la RCP a 2 metros de distancia",
+      "Solo utilizar el DEA sin tocar el pecho"
+    ],
+    "correct_answer": "Poner una mascarilla en la boca de la víctima y el socorrista",
+    "explanation": "Se recomienda poner una mascarilla en la boca de la víctima y ponerse una mascarilla propia para minimizar el riesgo de contagio.",
+    "meta": {
+      "original_question_number": 16,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q17",
+    "type": "single_choice",
+    "question": "¿Cuál es la función principal de un DEA (DESA)?",
+    "options": [
+      "Administrar medicación automática",
+      "Analizar el ritmo cardiaco y recomendar descarga si hay FV",
+      "Realizar las compresiones torácicas de forma mecánica",
+      "Sustituir la llamada al 112"
+    ],
+    "correct_answer": "Analizar el ritmo cardiaco y recomendar descarga si hay FV",
+    "explanation": "Los DESA analizan el ritmo cardiaco y recomiendan una descarga en caso de fibrilación ventricular.",
+    "meta": {
+      "original_question_number": 17,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q18",
+    "type": "single_choice",
+    "question": "¿Dónde se coloca el primer parche del DEA en un adulto?",
+    "options": [
+      "En el centro del abdomen",
+      "Bajo la clavícula derecha de la víctima",
+      "En la espalda, entre los omóplatos",
+      "En el brazo izquierdo"
+    ],
+    "correct_answer": "Bajo la clavícula derecha de la víctima",
+    "explanation": "Un parche se coloca debajo de la clavícula derecha y el otro en la zona lateral izquierda (debajo de la axila).",
+    "meta": {
+      "original_question_number": 18,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q19",
+    "type": "single_choice",
+    "question": "¿Qué se debe hacer inmediatamente después de que el DEA administre una descarga?",
+    "options": [
+      "Comprobar el pulso durante 1 minuto",
+      "Retirar los parches",
+      "Continuar con las compresiones torácicas inmediatamente",
+      "Llamar de nuevo al 112 para avisar"
+    ],
+    "correct_answer": "Continuar con las compresiones torácicas inmediatamente",
+    "explanation": "Tras la descarga se debe continuar con las compresiones torácicas inmediatamente.",
+    "meta": {
+      "original_question_number": 19,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q20",
+    "type": "single_choice",
+    "question": "¿Qué es el 'Estilo Utstein'?",
+    "options": [
+      "Un modelo de RCP inventado en Alemania",
+      "Un modelo unificado de comunicación de datos en resucitación",
+      "Un tipo de desfibrilador manual complejo",
+      "Una técnica de masaje cardiaco con los pies"
+    ],
+    "correct_answer": "Un modelo unificado de comunicación de datos en resucitación",
+    "explanation": "El estilo Utstein comprende un glosario de términos y un modelo de comunicación de datos para comparar técnicas de resucitación a nivel internacional.",
+    "meta": {
+      "original_question_number": 20,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q21",
+    "type": "single_choice",
+    "question": "¿Qué se considera 'niño' a efectos de RCP según el manual?",
+    "options": [
+      "Hasta los 12 años exactos",
+      "Hasta los 18 años",
+      "Hasta el comienzo de la pubertad",
+      "Solo los menores de 5 años"
+    ],
+    "correct_answer": "Hasta el comienzo de la pubertad",
+    "explanation": "Parece lógico considerar niño hasta la pubertad. A partir de ahí se aplican técnicas de adulto.",
+    "meta": {
+      "original_question_number": 21,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q22",
+    "type": "single_choice",
+    "question": "¿Con qué se inicia la RCP pediátrica (niños y lactantes)?",
+    "options": [
+      "Con 30 compresiones",
+      "Con 5 ventilaciones iniciales de rescate",
+      "Llamando al 112 y esperando 1 minuto",
+      "Buscando un desfibrilador antes de tocar"
+    ],
+    "correct_answer": "Con 5 ventilaciones iniciales de rescate",
+    "explanation": "La diferencia más importante es realizar cinco ventilaciones iniciales de rescate antes de las compresiones.",
+    "meta": {
+      "original_question_number": 22,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q23",
+    "type": "single_choice",
+    "question": "¿Cuál es la relación compresiones/ventilaciones en RCP pediátrica para personal formado?",
+    "options": [
+      "30:2",
+      "15:2",
+      "5:1",
+      "15:1"
+    ],
+    "correct_answer": "15:2",
+    "explanation": "La relación de ventilaciones compresiones es de 15:2 para cualquier persona formada en RCP pediátrica.",
+    "meta": {
+      "original_question_number": 23,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q24",
+    "type": "single_choice",
+    "question": "¿Cómo se abre la vía aérea en un lactante?",
+    "options": [
+      "Hiperextensión máxima del cuello",
+      "Posición neutra de la cabeza",
+      "Giro lateral de la cabeza",
+      "Maniobra de Heimlich"
+    ],
+    "correct_answer": "Posición neutra de la cabeza",
+    "explanation": "Debido a la anatomía del lactante, la vía aérea puede cerrarse por hiperextensión, por lo que se busca una posición neutra.",
+    "meta": {
+      "original_question_number": 24,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q25",
+    "type": "single_choice",
+    "question": "En lactantes, ¿cómo se realizan las compresiones torácicas?",
+    "options": [
+      "Con el talón de una mano",
+      "Con las dos manos entrelazadas",
+      "Con la técnica de los dos pulgares rodeando el tórax",
+      "Utilizando solo el dedo índice"
+    ],
+    "correct_answer": "Con la técnica de los dos pulgares rodeando el tórax",
+    "explanation": "En lactantes se comprime el esternón utilizando la técnica de los dos pulgares rodeando el tórax.",
+    "meta": {
+      "original_question_number": 25,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q26",
+    "type": "single_choice",
+    "question": "¿Qué caracteriza a un OVACE parcial?",
+    "options": [
+      "La víctima no puede hablar ni toser",
+      "La víctima tose con fuerza y puede hablar",
+      "La víctima está inconsciente desde el inicio",
+      "La piel se vuelve azul (cianosis) inmediatamente"
+    ],
+    "correct_answer": "La víctima tose con fuerza y puede hablar",
+    "explanation": "Si tose, se trata de una obstrucción parcial. Se debe animar a que siga tosiendo.",
+    "meta": {
+      "original_question_number": 26,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q27",
+    "type": "single_choice",
+    "question": "¿Cuál es el primer paso ante un OVACE completo en un adulto consciente?",
+    "options": [
+      "Realizar 30 compresiones torácicas",
+      "Realizar la maniobra de Heimlich inmediatamente",
+      "Dar hasta cinco golpes bruscos interescapulares",
+      "Hacer un barrido con el dedo en la boca"
+    ],
+    "correct_answer": "Dar hasta cinco golpes bruscos interescapulares",
+    "explanation": "Si no tose, el primer paso es inclinar a la víctima y dar hasta cinco golpes bruscos interescapulares.",
+    "meta": {
+      "original_question_number": 27,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q28",
+    "type": "single_choice",
+    "question": "¿Cómo se realiza la maniobra de Heimlich?",
+    "options": [
+      "Golpeando con el puño en el pecho",
+      "Comprimiendo el abdomen hacia adentro y hacia arriba",
+      "Presionando la espalda contra la pared",
+      "Dando agua para que baje el objeto"
+    ],
+    "correct_answer": "Comprimiendo el abdomen hacia adentro y hacia arriba",
+    "explanation": "Se rodea a la víctima, se coloca el puño por encima del ombligo y se comprime con brusquedad hacia adentro y hacia arriba.",
+    "meta": {
+      "original_question_number": 28,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q29",
+    "type": "single_choice",
+    "question": "¿Qué maniobra está contraindicada en lactantes para tratar un atragantamiento?",
+    "options": [
+      "Golpes en la espalda",
+      "Compresiones torácicas",
+      "Compresiones abdominales (Heimlich)",
+      "Apertura de la vía aérea"
+    ],
+    "correct_answer": "Compresiones abdominales (Heimlich)",
+    "explanation": "A los bebés no se les pueden aplicar las compresiones abdominales por riesgo de lesiones en las vísceras.",
+    "meta": {
+      "original_question_number": 29,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q30",
+    "type": "single_choice",
+    "question": "En un lactante consciente con OVACE completo, ¿qué se hace si los golpes en la espalda fallan?",
+    "options": [
+      "Maniobra de Heimlich",
+      "Dar 5 compresiones torácicas más fuertes y lentas",
+      "Esperar 5 minutos",
+      "Ponerlo en PLS"
+    ],
+    "correct_answer": "Dar 5 compresiones torácicas más fuertes y lentas",
+    "explanation": "Si no se consigue la desobstrucción con golpes, se pasan a realizar 5 compresiones torácicas (igual que RCP pero más fuertes y lentas).",
+    "meta": {
+      "original_question_number": 30,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q31",
+    "type": "single_choice",
+    "question": "¿Qué se debe evaluar en un paciente con posible ICTUS usando la prueba FAST?",
+    "options": [
+      "Fiebre, Asma, Sueño, Tos",
+      "Face (cara), Arms (brazos), Speech (habla), Time (tiempo)",
+      "Fuerza, Agilidad, Sensibilidad, Tamaño",
+      "Frecuencia, Amplitud, Sonido, Tacto"
+    ],
+    "correct_answer": "Face (cara), Arms (brazos), Speech (habla), Time (tiempo)",
+    "explanation": "El acrónimo FAST evalúa asimetría facial (Face), debilidad en brazos (Arms), alteración del lenguaje (Speech) y urgencia temporal (Time).",
+    "meta": {
+      "original_question_number": 31,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q32",
+    "type": "single_choice",
+    "question": "¿Qué síntoma es característico del Ictus hemorrágico?",
+    "options": [
+      "Dolor articular intenso",
+      "Ruptura de un vaso sanguíneo encefálico",
+      "Mejora inmediata al tumbarse",
+      "Sed excesiva"
+    ],
+    "correct_answer": "Ruptura de un vaso sanguíneo encefálico",
+    "explanation": "Los Ictus hemorrágicos se deben a la ruptura de un vaso sanguíneo encefálico.",
+    "meta": {
+      "original_question_number": 32,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q33",
+    "type": "single_choice",
+    "question": "¿Cómo actuar ante una crisis convulsiva?",
+    "options": [
+      "Sujetar fuertemente a la persona para que no se mueva",
+      "Introducir un objeto metálico en la boca",
+      "Alejar objetos con los que pueda dañarse y proteger la cabeza",
+      "Administrar agua con azúcar"
+    ],
+    "correct_answer": "Alejar objetos con los que pueda dañarse y proteger la cabeza",
+    "explanation": "El objetivo es evitar lesiones: alejar objetos peligrosos, proteger la cabeza con un cojín y no intentar frenar la convulsión.",
+    "meta": {
+      "original_question_number": 33,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q34",
+    "type": "single_choice",
+    "question": "¿Qué NO se debe hacer durante una convulsión?",
+    "options": [
+      "Aflojar el cinturón",
+      "Llamar al 112",
+      "Introducir objetos en la boca",
+      "Vigilar constantes vitales"
+    ],
+    "correct_answer": "Introducir objetos en la boca",
+    "explanation": "En ningún caso introduciremos ningún objeto en la boca de la víctima ni nuestras manos.",
+    "meta": {
+      "original_question_number": 34,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q35",
+    "type": "single_choice",
+    "question": "¿Qué caracteriza a la angina de pecho?",
+    "options": [
+      "Muerte definitiva del tejido cardiaco",
+      "Opresión o dolor en el centro del pecho que suele ceder con reposo",
+      "Dolor agudo solo en el brazo derecho",
+      "Tos seca y fiebre"
+    ],
+    "correct_answer": "Opresión o dolor en el centro del pecho que suele ceder con reposo",
+    "explanation": "La angina de pecho se manifiesta como opresión en el pecho que suele ceder con el reposo o medicación específica.",
+    "meta": {
+      "original_question_number": 35,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q36",
+    "type": "single_choice",
+    "question": "¿Cuál es el síntoma principal de una crisis de asma bronquial?",
+    "options": [
+      "Dolor lumbar",
+      "Dificultad respiratoria con ruidos sibilantes (pitos)",
+      "Hemorragia nasal",
+      "Pérdida de visión momentánea"
+    ],
+    "correct_answer": "Dificultad respiratoria con ruidos sibilantes (pitos)",
+    "explanation": "El asma se caracteriza por dificultad respiratoria y ruidos sibilantes al espirar el aire.",
+    "meta": {
+      "original_question_number": 36,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q37",
+    "type": "single_choice",
+    "question": "¿Qué indica el término 'Cianosis'?",
+    "options": [
+      "Aumento de la energía",
+      "Coloración azulada de la piel por falta de oxígeno",
+      "Mejora de la circulación",
+      "Estado de sueño profundo"
+    ],
+    "correct_answer": "Coloración azulada de la piel por falta de oxígeno",
+    "explanation": "La cianosis es la coloración azulada de la piel, síntoma de dificultad respiratoria u obstrucción.",
+    "meta": {
+      "original_question_number": 37,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q38",
+    "type": "single_choice",
+    "question": "En el manejo de convulsiones febriles en niños, ¿qué se recomienda?",
+    "options": [
+      "Sumergirlo en agua helada",
+      "Retirar la ropa y refrescar con agua tibia",
+      "Darle un jarabe por vía oral durante la crisis",
+      "Arroparlo con muchas mantas"
+    ],
+    "correct_answer": "Retirar la ropa y refrescar con agua tibia",
+    "explanation": "En convulsiones por fiebre en niños se debe retirar la ropa y refrescar con agua tibia (no fría).",
+    "meta": {
+      "original_question_number": 38,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q39",
+    "type": "single_choice",
+    "question": "¿Cuál es el fin de la RCP por parte del socorrista?",
+    "options": [
+      "Cuando el socorrista se sienta aburrido",
+      "Solo si la víctima recupera la consciencia total",
+      "Si llega ayuda profesional o el socorrista queda agotado",
+      "Tras 5 minutos de maniobras siempre se para"
+    ],
+    "correct_answer": "Si llega ayuda profesional o el socorrista queda agotado",
+    "explanation": "La resucitación termina si llega ayuda para el relevo, la víctima respira normalmente o el socorrista queda agotado.",
+    "meta": {
+      "original_question_number": 39,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q40",
+    "type": "single_choice",
+    "question": "¿Qué se debe hacer si no conseguimos elevar el pecho tras dos intentos de insuflación?",
+    "options": [
+      "Seguir intentándolo 10 veces más",
+      "Pasar directamente a las compresiones sin perder tiempo",
+      "Abandonar la reanimación",
+      "Llamar de nuevo al 112"
+    ],
+    "correct_answer": "Pasar directamente a las compresiones sin perder tiempo",
+    "explanation": "Si no se puede ventilar tras dos intentos, se debe considerar la presencia de obstrucción pero seguir con las compresiones sin perder tiempo.",
+    "meta": {
+      "original_question_number": 40,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q41",
+    "type": "single_choice",
+    "question": "¿Dónde se sitúa el corazón?",
+    "options": [
+      "En el lado derecho del tórax",
+      "En el centro del tórax (mediastino) inclinado a la izquierda",
+      "En la cavidad abdominal superior",
+      "En la parte posterior de la espalda"
+    ],
+    "correct_answer": "En el centro del tórax (mediastino) inclinado a la izquierda",
+    "explanation": "El corazón se sitúa en la parte central del tórax, en el mediastino, con el vértice inclinado hacia la izquierda.",
+    "meta": {
+      "original_question_number": 41,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q42",
+    "type": "single_choice",
+    "question": "¿Cuál es el cuarto eslabón de la cadena de supervivencia ERC 2025?",
+    "options": [
+      "RCP precoz",
+      "Desfibrilación precoz",
+      "Soporte vital avanzado",
+      "Supervivencia y recuperación"
+    ],
+    "correct_answer": "Supervivencia y recuperación",
+    "explanation": "El cuarto eslabón pone énfasis en la importancia de la recuperación para restaurar la calidad de vida.",
+    "meta": {
+      "original_question_number": 42,
+      "correct_letter": "D"
+    },
+    "correct_index": 3
+  },
+  {
+    "id": "tema2_q43",
+    "type": "single_choice",
+    "question": "¿Qué garantiza que un desfibrilador no de una descarga a quien no lo necesita?",
+    "options": [
+      "El socorrista debe decidirlo visualmente",
+      "El aparato analiza el ritmo y solo permite la descarga si hay FV/TV",
+      "Los parches detectan el calor corporal",
+      "Solo funciona si se introduce un código médico"
+    ],
+    "correct_answer": "El aparato analiza el ritmo y solo permite la descarga si hay FV/TV",
+    "explanation": "Los DEA analizan automáticamente el ritmo y solo indican la descarga si detectan un ritmo desfibrilable.",
+    "meta": {
+      "original_question_number": 43,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q44",
+    "type": "single_choice",
+    "question": "¿En qué caso se usa la posición anteroposterior para los electrodos del DEA?",
+    "options": [
+      "En todos los adultos",
+      "Solo en pacientes mojados",
+      "En lactantes y niños hasta los 25 kg de peso",
+      "En víctimas con marcapasos"
+    ],
+    "correct_answer": "En lactantes y niños hasta los 25 kg de peso",
+    "explanation": "En lactantes y niños pequeños se usa la posición anteroposterior (pecho y espalda).",
+    "meta": {
+      "original_question_number": 44,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q45",
+    "type": "single_choice",
+    "question": "¿Quién es el responsable del mantenimiento del DEA en una empresa?",
+    "options": [
+      "El fabricante siempre",
+      "El 112",
+      "Los organismos o instituciones que lo instalen",
+      "El primer socorrista que lo use"
+    ],
+    "correct_answer": "Los organismos o instituciones que lo instalen",
+    "explanation": "El RD 365/2009 establece que los responsables del mantenimiento son los organismos que instalen el DEA.",
+    "meta": {
+      "original_question_number": 45,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q46",
+    "type": "single_choice",
+    "question": "¿Qué se debe hacer antes de colocar los parches del DEA si el paciente está mojado?",
+    "options": [
+      "Nada, se colocan igual",
+      "Secar el tórax de la víctima",
+      "Esperar a que se seque al aire",
+      "Poner los parches sobre la ropa"
+    ],
+    "correct_answer": "Secar el tórax de la víctima",
+    "explanation": "Si la víctima está mojada, se debe secar el tórax porque el agua dispersa la energía de la descarga.",
+    "meta": {
+      "original_question_number": 46,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q47",
+    "type": "single_choice",
+    "question": "¿Qué dato es esencial recoger tras usar un desfibrilador según la normativa de Madrid?",
+    "options": [
+      "El color de pelo de la víctima",
+      "El registro digital del suceso almacenado en el DEA",
+      "La marca de las zapatillas del herido",
+      "El nombre de todos los testigos presentes"
+    ],
+    "correct_answer": "El registro digital del suceso almacenado en el DEA",
+    "explanation": "Se debe remitir el registro digital almacenado en la memoria del desfibrilador a la Dirección General competente.",
+    "meta": {
+      "original_question_number": 47,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema2_q48",
+    "type": "single_choice",
+    "question": "¿Cómo debe ser la superficie donde se realice la RCP?",
+    "options": [
+      "Lo más blanda posible",
+      "Una cama con colchón de aire",
+      "Una superficie plana y rígida",
+      "No importa la superficie"
+    ],
+    "correct_answer": "Una superficie plana y rígida",
+    "explanation": "La RCP es más eficaz en una superficie firme. Si el paciente está en la cama, se debe compensar el colchón con compresiones más profundas.",
+    "meta": {
+      "original_question_number": 48,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q49",
+    "type": "single_choice",
+    "question": "¿Qué se debe hacer durante el análisis del ritmo por el DEA?",
+    "options": [
+      "Seguir con el masaje cardiaco",
+      "Dar ventilaciones fuertes",
+      "Asegurarse de que nadie toca a la víctima",
+      "Mover a la víctima a otro lugar"
+    ],
+    "correct_answer": "Asegurarse de que nadie toca a la víctima",
+    "explanation": "Nadie debe tocar a la víctima en el momento del análisis para evitar interferencias.",
+    "meta": {
+      "original_question_number": 49,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema2_q50",
+    "type": "single_choice",
+    "question": "En el caso de un Ictus, ¿cuál es el tiempo máximo recomendado para iniciar el tratamiento?",
+    "options": [
+      "24 horas",
+      "12 horas",
+      "Antes de 2 horas desde el inicio de los síntomas",
+      "A la semana siguiente"
+    ],
+    "correct_answer": "Antes de 2 horas desde el inicio de los síntomas",
+    "explanation": "Es importante que el tratamiento del Ictus comience antes de 2 horas desde el inicio de los síntomas para influir en el pronóstico.",
+    "meta": {
+      "original_question_number": 50,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q1",
+    "type": "single_choice",
+    "question": "¿Qué es una hemorragia según el manual?",
+    "options": [
+      "La entrada de aire en los vasos sanguíneos",
+      "La salida de sangre de los vasos por rotura de los mismos",
+      "Un aumento de la presión arterial",
+      "La coagulación excesiva de la sangre"
+    ],
+    "correct_answer": "La salida de sangre de los vasos por rotura de los mismos",
+    "explanation": "Una hemorragia es la salida de sangre de los vasos sanguíneos por rotura de los mismos.",
+    "meta": {
+      "original_question_number": 1,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q2",
+    "type": "single_choice",
+    "question": "¿Cuál es la temperatura corporal normal en torno a la cual la sangre ayuda a mantener el equilibrio?",
+    "options": [
+      "35 ºC",
+      "36,5 ºC",
+      "37,5 ºC",
+      "38 ºC"
+    ],
+    "correct_answer": "36,5 ºC",
+    "explanation": "La sangre se encarga de mantener la temperatura corporal entorno a los 36,5 ºC.",
+    "meta": {
+      "original_question_number": 2,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q3",
+    "type": "single_choice",
+    "question": "¿Qué volumen aproximado de sangre tiene un adulto?",
+    "options": [
+      "3 litros",
+      "5 litros",
+      "7 litros",
+      "10 litros"
+    ],
+    "correct_answer": "5 litros",
+    "explanation": "Un adulto tiene un volumen de sangre de aproximadamente cinco litros.",
+    "meta": {
+      "original_question_number": 3,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q4",
+    "type": "single_choice",
+    "question": "¿A partir de qué porcentaje de pérdida de volumen de sangre suele ocurrir un choque hipovolémico?",
+    "options": [
+      "10 %",
+      "25 %",
+      "50 %",
+      "75 %"
+    ],
+    "correct_answer": "50 %",
+    "explanation": "Cuando la pérdida de volumen de sangre se aproxima al 50 %, suele ocurrir un choque hipovolémico que puede originar la muerte.",
+    "meta": {
+      "original_question_number": 4,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q5",
+    "type": "single_choice",
+    "question": "¿Cómo se denomina la hemorragia que sale por la nariz?",
+    "options": [
+      "Otorragia",
+      "Hematemesis",
+      "Epistaxis",
+      "Hematuria"
+    ],
+    "correct_answer": "Epistaxis",
+    "explanation": "La epistaxis o sangrado nasal es la hemorragia con origen en las fosas nasales.",
+    "meta": {
+      "original_question_number": 5,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q6",
+    "type": "single_choice",
+    "question": "¿Qué caracteriza a la hemorragia arterial?",
+    "options": [
+      "Salida continua y sangre rojo oscuro",
+      "Sangrado en sábana y poca cantidad",
+      "Sangre rojo brillante que sale a borbotones rítmicos",
+      "Sangre que sale mezclada con aire"
+    ],
+    "correct_answer": "Sangre rojo brillante que sale a borbotones rítmicos",
+    "explanation": "La hemorragia arterial es de color rojo brillante y suele salir a presión, en saltos rítmicos coincidentes con el corazón.",
+    "meta": {
+      "original_question_number": 6,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q7",
+    "type": "single_choice",
+    "question": "¿Cuál es el primer paso en la técnica de hemostasia para una hemorragia externa?",
+    "options": [
+      "Aplicar un torniquete",
+      "Realizar presión directa sobre la herida",
+      "Elevar la extremidad por encima del corazón",
+      "Lavar con alcohol de 96º"
+    ],
+    "correct_answer": "Realizar presión directa sobre la herida",
+    "explanation": "La mayor parte de hemorragias se controlan mediante presión directa sobre la herida con gasas o paños limpios.",
+    "meta": {
+      "original_question_number": 7,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q8",
+    "type": "single_choice",
+    "question": "Si una gasa se empapa de sangre durante la presión directa, ¿qué debemos hacer?",
+    "options": [
+      "Quitarla y poner una nueva",
+      "Poner otra encima sin quitar la anterior",
+      "Lavar la gasa y volver a ponerla",
+      "Dejar de presionar"
+    ],
+    "correct_answer": "Poner otra encima sin quitar la anterior",
+    "explanation": "Si el apósito se empapa, no debe ser retirado; se colocarán nuevos apósitos sobre el primero.",
+    "meta": {
+      "original_question_number": 8,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q9",
+    "type": "single_choice",
+    "question": "¿Cuándo se recomienda la utilización de torniquetes según las guías ERC 2025?",
+    "options": [
+      "En cualquier herida leve de brazo",
+      "Siempre que haya sangre rojo brillante",
+      "Cuando la presión directa no puede controlar una hemorragia externa grave",
+      "Solo si el socorrista es médico"
+    ],
+    "correct_answer": "Cuando la presión directa no puede controlar una hemorragia externa grave",
+    "explanation": "El ERC recomienda torniquetes cuando la presión directa no puede controlar una hemorragia externa grave en una extremidad.",
+    "meta": {
+      "original_question_number": 9,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q10",
+    "type": "single_choice",
+    "question": "¿A qué distancia por encima de la herida se debe aplicar el torniquete?",
+    "options": [
+      "Justo encima de la herida",
+      "A 5-7 cm por encima (pero no en una articulación)",
+      "A 20 cm de la herida",
+      "Sobre la articulación más cercana"
+    ],
+    "correct_answer": "A 5-7 cm por encima (pero no en una articulación)",
+    "explanation": "Debe aplicarse 5-7 cm por encima de la herida, evitando las articulaciones.",
+    "meta": {
+      "original_question_number": 10,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q11",
+    "type": "single_choice",
+    "question": "¿Qué precaución es fundamental tras colocar un torniquete?",
+    "options": [
+      "Aflojarlo cada 10 minutos para que circule la sangre",
+      "Cubrirlo con una venda oscura para que no se vea",
+      "Anotar la hora exacta de su colocación",
+      "Retirarlo en cuanto deje de sangrar"
+    ],
+    "correct_answer": "Anotar la hora exacta de su colocación",
+    "explanation": "Hay que asegurarse de dejarlo siempre visible y anotar la hora exacta de su colocación.",
+    "meta": {
+      "original_question_number": 11,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q12",
+    "type": "single_choice",
+    "question": "¿Quién puede retirar un torniquete una vez puesto?",
+    "options": [
+      "El socorrista cuando la ayuda esté cerca",
+      "La propia víctima si le duele mucho",
+      "Únicamente personal médico",
+      "Cualquier persona que sepa hacer un nudo"
+    ],
+    "correct_answer": "Únicamente personal médico",
+    "explanation": "Si se ha puesto un torniquete NUNCA se debe aflojar; únicamente personal médico podrá retirarlo.",
+    "meta": {
+      "original_question_number": 12,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q13",
+    "type": "single_choice",
+    "question": "¿En qué posición se debe mantener a una víctima con sospecha de hemorragia interna y shock?",
+    "options": [
+      "Sentado",
+      "Posición antishock (piernas elevadas)",
+      "De pie para que no se duerma",
+      "Decúbito prono"
+    ],
+    "correct_answer": "Posición antishock (piernas elevadas)",
+    "explanation": "Se debe mantener tumbado en posición antishock o de Trendelenburg, elevando las piernas respecto al cuerpo.",
+    "meta": {
+      "original_question_number": 13,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q14",
+    "type": "single_choice",
+    "question": "¿Qué es la hematemesis?",
+    "options": [
+      "Sangre procedente del sistema respiratorio (con tos)",
+      "Sangre procedente del sistema digestivo (con vómito)",
+      "Sangre mezclada con orina",
+      "Sangre por el oído"
+    ],
+    "correct_answer": "Sangre procedente del sistema digestivo (con vómito)",
+    "explanation": "La hematemesis es sangre procedente del sistema digestivo que aparece mezclada con vómito y aspecto de posos de café.",
+    "meta": {
+      "original_question_number": 14,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q15",
+    "type": "single_choice",
+    "question": "¿Qué indica la salida de sangre por el oído (otorragia) tras un traumatismo en la cabeza?",
+    "options": [
+      "Una infección de oído leve",
+      "Posible rotura de la base del cráneo",
+      "Que el tímpano está sucio",
+      "Un síntoma normal de mareo"
+    ],
+    "correct_answer": "Posible rotura de la base del cráneo",
+    "explanation": "Cuando hay traumatismo previo en la cabeza, la otorragia puede significar rotura de la base del cráneo.",
+    "meta": {
+      "original_question_number": 15,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q16",
+    "type": "single_choice",
+    "question": "¿Qué factor NO determina la gravedad de una herida según el manual?",
+    "options": [
+      "La profundidad",
+      "La presencia de suciedad",
+      "El color de la ropa de la víctima",
+      "La localización (cara, tórax, etc.)"
+    ],
+    "correct_answer": "El color de la ropa de la víctima",
+    "explanation": "La gravedad depende de profundidad, extensión, localización, suciedad y presencia de cuerpos extraños.",
+    "meta": {
+      "original_question_number": 16,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q17",
+    "type": "single_choice",
+    "question": "¿Cómo se debe limpiar una herida simple?",
+    "options": [
+      "Con alcohol de fuera hacia adentro",
+      "Con agua y jabón o suero, de dentro hacia fuera",
+      "Usando algodón seco con fuerza",
+      "Poniendo polvos talco"
+    ],
+    "correct_answer": "Con agua y jabón o suero, de dentro hacia fuera",
+    "explanation": "Se limpia la herida a chorro con agua y jabón o suero, siempre de dentro hacia fuera.",
+    "meta": {
+      "original_question_number": 17,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q18",
+    "type": "single_choice",
+    "question": "¿Qué se debe hacer si hay un objeto clavado en una herida grave?",
+    "options": [
+      "Extraerlo rápidamente para que no infecte",
+      "Moverlo para ver cuánto ha entrado",
+      "No extraerlo e inmovilizarlo",
+      "Limpiarlo con alcohol mientras sigue clavado"
+    ],
+    "correct_answer": "No extraerlo e inmovilizarlo",
+    "explanation": "Si hay objetos clavados no deben extraerse pues pueden estar taponando vasos. Se inmovilizará el objeto.",
+    "meta": {
+      "original_question_number": 18,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q19",
+    "type": "single_choice",
+    "question": "¿Cómo se debe cubrir una herida perforante en el tórax?",
+    "options": [
+      "Con un vendaje muy apretado",
+      "No se debe cubrir nunca",
+      "Con un taponamiento oclusivo parcial (solo por tres lados)",
+      "Cerrándola totalmente con material impermeable"
+    ],
+    "correct_answer": "Con un taponamiento oclusivo parcial (solo por tres lados)",
+    "explanation": "Se coloca un taponamiento oclusivo parcial (cerrado por 3 lados) para que el tejido actúe como válvula y no se produzca neumotórax a tensión.",
+    "meta": {
+      "original_question_number": 19,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q20",
+    "type": "single_choice",
+    "question": "¿Qué caracteriza a una contusión de segundo grado?",
+    "options": [
+      "Enrojecimiento leve de la piel",
+      "Rotura de capilares (cardenal)",
+      "Formación de un hematoma o chichón",
+      "Aplastamiento intenso con muerte de tejidos"
+    ],
+    "correct_answer": "Formación de un hematoma o chichón",
+    "explanation": "En las contusiones de segundo grado se lesionan vasos mayores y se forma el hematoma.",
+    "meta": {
+      "original_question_number": 20,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q21",
+    "type": "single_choice",
+    "question": "¿Qué es un esguince?",
+    "options": [
+      "La separación permanente de las superficies articulares",
+      "La rotura total del hueso",
+      "La separación momentánea de las superficies articulares",
+      "La inflamación de un músculo"
+    ],
+    "correct_answer": "La separación momentánea de las superficies articulares",
+    "explanation": "El esguince es la separación momentánea de las superficies articulares con lesión en los ligamentos.",
+    "meta": {
+      "original_question_number": 21,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q22",
+    "type": "single_choice",
+    "question": "¿Cuál es el tratamiento inicial para un esguince?",
+    "options": [
+      "Calor intenso y masajes rápidos",
+      "Reposo, frío local y elevación",
+      "Caminar para que no se quede rígido",
+      "Reducir la articulación manualmente"
+    ],
+    "correct_answer": "Reposo, frío local y elevación",
+    "explanation": "El tratamiento consiste en reposo de la articulación, aplicación de frío local y elevación de la zona.",
+    "meta": {
+      "original_question_number": 22,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q23",
+    "type": "single_choice",
+    "question": "¿Qué diferencia a una luxación de un esguince?",
+    "options": [
+      "En la luxación la separación de superficies articulares es permanente",
+      "En el esguince el hueso se rompe siempre",
+      "La luxación no duele",
+      "El esguince solo ocurre en el hombro"
+    ],
+    "correct_answer": "En la luxación la separación de superficies articulares es permanente",
+    "explanation": "La luxación es la separación permanente de las superficies articulares, dejando los huesos fuera de su sitio.",
+    "meta": {
+      "original_question_number": 23,
+      "correct_letter": "A"
+    },
+    "correct_index": 0
+  },
+  {
+    "id": "tema3_q24",
+    "type": "single_choice",
+    "question": "¿Cómo se define una fractura abierta?",
+    "options": [
+      "Cuando el hueso se rompe en muchos pedazos",
+      "Cuando hay una herida que comunica el foco de la fractura con el exterior",
+      "Cuando el hueso solo se fisura",
+      "Cuando la fractura ocurre en el cráneo"
+    ],
+    "correct_answer": "Cuando hay una herida que comunica el foco de la fractura con el exterior",
+    "explanation": "La fractura abierta es aquella en la que existe una herida que comunica el foco de la fractura con el exterior.",
+    "meta": {
+      "original_question_number": 24,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q25",
+    "type": "single_choice",
+    "question": "¿Cuál es un síntoma que NO corresponde a una fractura?",
+    "options": [
+      "Inflamación de la zona",
+      "Aumento de la temperatura corporal (fiebre)",
+      "Deformidad",
+      "Chasquido o ruido al producirse"
+    ],
+    "correct_answer": "Aumento de la temperatura corporal (fiebre)",
+    "explanation": "Las fracturas pueden provocar shock (descenso de temperatura), no fiebre. Sus síntomas son dolor, inflamación, deformidad e impotencia funcional.",
+    "meta": {
+      "original_question_number": 25,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q26",
+    "type": "single_choice",
+    "question": "¿Qué se debe hacer ante una luxación?",
+    "options": [
+      "Intentar colocar el hueso en su sitio (reducirla)",
+      "Inmovilizar la articulación tal y como se encuentre",
+      "Dar masajes con pomada antiinflamatoria",
+      "Pedir a la víctima que mueva la articulación"
+    ],
+    "correct_answer": "Inmovilizar la articulación tal y como se encuentre",
+    "explanation": "Se debe inmovilizar tal y como se encuentre y NO intentar reducirla por riesgo de dañar vasos o nervios.",
+    "meta": {
+      "original_question_number": 26,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q27",
+    "type": "single_choice",
+    "question": "¿Cómo debe inmovilizarse una fractura de extremidad?",
+    "options": [
+      "Solo el punto exacto de la fractura",
+      "Incluyendo las dos articulaciones adyacentes",
+      "Dejando las articulaciones libres para que no se atrofien",
+      "Solo con vendas elásticas"
+    ],
+    "correct_answer": "Incluyendo las dos articulaciones adyacentes",
+    "explanation": "La inmovilización debe abarcar la zona de la fractura y las articulaciones a ambos lados de la misma.",
+    "meta": {
+      "original_question_number": 27,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q28",
+    "type": "single_choice",
+    "question": "¿Cómo se conserva un miembro amputado para su traslado?",
+    "options": [
+      "Directamente sobre hielo picado",
+      "En un frasco con alcohol",
+      "En una bolsa de plástico cerrada, y esta en otra con agua y hielo",
+      "Envuelto en algodón seco"
+    ],
+    "correct_answer": "En una bolsa de plástico cerrada, y esta en otra con agua y hielo",
+    "explanation": "Se debe envolver en paños húmedos, meterlo en una bolsa cerrada y esta introducirla en un recipiente con agua y hielo (enfriar, no congelar).",
+    "meta": {
+      "original_question_number": 28,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q29",
+    "type": "single_choice",
+    "question": "¿Qué caracteriza a una quemadura de primer grado?",
+    "options": [
+      "Aparición de flictenas (ampollas)",
+      "La piel tiene aspecto carbonizado (escara)",
+      "Provoca eritema (rojez), picor y dolor leve",
+      "Afecta a los músculos y huesos"
+    ],
+    "correct_answer": "Provoca eritema (rojez), picor y dolor leve",
+    "explanation": "La quemadura de primer grado afecta solo a la epidermis y provoca eritema, picor y leve dolor (ej. solares).",
+    "meta": {
+      "original_question_number": 29,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q30",
+    "type": "single_choice",
+    "question": "¿Cuál es el elemento característico de las quemaduras de segundo grado?",
+    "options": [
+      "La escara negra",
+      "Las flictenas (ampollas)",
+      "La ausencia total de dolor",
+      "La piel blanca"
+    ],
+    "correct_answer": "Las flictenas (ampollas)",
+    "explanation": "Las ampollas (flictenas) son el elemento que caracteriza las quemaduras de segundo grado.",
+    "meta": {
+      "original_question_number": 30,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q31",
+    "type": "single_choice",
+    "question": "¿Por qué las quemaduras de tercer grado no suelen ser dolorosas en su centro?",
+    "options": [
+      "Porque son muy leves",
+      "Porque se han destruido las terminaciones nerviosas receptoras",
+      "Porque el paciente entra en coma inmediatamente",
+      "Debido al frío que producen"
+    ],
+    "correct_answer": "Porque se han destruido las terminaciones nerviosas receptoras",
+    "explanation": "No son dolorosas en la zona afectada porque se han destruido todas las terminaciones nerviosas de la piel.",
+    "meta": {
+      "original_question_number": 31,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q32",
+    "type": "single_choice",
+    "question": "¿Qué es lo prioritario al atender una quemadura térmica?",
+    "options": [
+      "Aplicar pomadas antibióticas",
+      "Enfriar la zona quemada con agua abundante",
+      "Romper las ampollas para que salga el líquido",
+      "Aplicar pasta de dientes blanca"
+    ],
+    "correct_answer": "Enfriar la zona quemada con agua abundante",
+    "explanation": "Enfriar la quemadura con agua abundante es lo prioritario en estos casos.",
+    "meta": {
+      "original_question_number": 32,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q33",
+    "type": "single_choice",
+    "question": "¿Cuál es la excepción al uso de agua en quemaduras químicas?",
+    "options": [
+      "Con ácido sulfúrico",
+      "Cuando la víctima esté cubierta con cal seca",
+      "Con sosa cáustica",
+      "Nunca hay excepciones"
+    ],
+    "correct_answer": "Cuando la víctima esté cubierta con cal seca",
+    "explanation": "La excepción es cuando la víctima está cubierta con cal seca; al añadir agua se agravaría la quemadura.",
+    "meta": {
+      "original_question_number": 33,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q34",
+    "type": "single_choice",
+    "question": "¿Qué efecto inmediato puede producir el paso de corriente eléctrica por el tórax?",
+    "options": [
+      "Solo picor leve",
+      "Asfixia por contracción mantenida de los músculos respiratorios",
+      "Mejora de la capacidad pulmonar",
+      "Hambre súbita"
+    ],
+    "correct_answer": "Asfixia por contracción mantenida de los músculos respiratorios",
+    "explanation": "La corriente eléctrica en el tórax causa una contracción mantenida de los músculos respiratorios impidiendo el paso del aire.",
+    "meta": {
+      "original_question_number": 34,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q35",
+    "type": "single_choice",
+    "question": "¿Qué es lo primero que se debe hacer en caso de electrocución?",
+    "options": [
+      "Tomar el pulso",
+      "Iniciar RCP",
+      "Liberar a la víctima de la corriente antes de tocarla",
+      "Tirar de los pies del herido"
+    ],
+    "correct_answer": "Liberar a la víctima de la corriente antes de tocarla",
+    "explanation": "Lo primero es liberar a la víctima de la corriente eléctrica desconectándola o usando objetos aislantes.",
+    "meta": {
+      "original_question_number": 35,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q36",
+    "type": "single_choice",
+    "question": "¿Qué órgano es el responsable de equilibrar la temperatura corporal?",
+    "options": [
+      "El corazón",
+      "Los pulmones",
+      "El hipotálamo (cerebro)",
+      "Los riñones"
+    ],
+    "correct_answer": "El hipotálamo (cerebro)",
+    "explanation": "El responsable de equilibrar la temperatura corporal es el cerebro y más concretamente el hipotálamo.",
+    "meta": {
+      "original_question_number": 36,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q37",
+    "type": "single_choice",
+    "question": "¿Qué colectivos son los más vulnerables al golpe de calor?",
+    "options": [
+      "Solo los adultos jóvenes deportistas",
+      "Mayores de 75 años y menores de 6 años",
+      "Personas que viven en la costa",
+      "Gente que no usa gafas de sol"
+    ],
+    "correct_answer": "Mayores de 75 años y menores de 6 años",
+    "explanation": "Los más vulnerables son los mayores de 75 años, menores de 6 años y enfermos crónicos.",
+    "meta": {
+      "original_question_number": 37,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q38",
+    "type": "single_choice",
+    "question": "¿A partir de qué temperatura corporal se habla de hipotermia?",
+    "options": [
+      "37 ºC",
+      "36 ºC",
+      "Inferior a 35 ºC",
+      "32 ºC exactos"
+    ],
+    "correct_answer": "Inferior a 35 ºC",
+    "explanation": "La hipotermia es la exposición al frío que baja la temperatura por debajo de 35 ºC.",
+    "meta": {
+      "original_question_number": 38,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q39",
+    "type": "single_choice",
+    "question": "¿Cómo se debe calentar a una víctima de hipotermia?",
+    "options": [
+      "Con calor directo de estufa",
+      "Dándole alcohol fuerte",
+      "De forma progresiva y lenta",
+      "Sumergiéndola en agua muy caliente"
+    ],
+    "correct_answer": "De forma progresiva y lenta",
+    "explanation": "Siempre se debe calentar a la víctima de forma progresiva y nunca usar calor directo.",
+    "meta": {
+      "original_question_number": 39,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q40",
+    "type": "single_choice",
+    "question": "¿Cuál es el primer síntoma de congelación en la piel?",
+    "options": [
+      "Ampollas azuladas",
+      "Palidez por vasoconstricción",
+      "Gangrena",
+      "Hormigueo pulsátil"
+    ],
+    "correct_answer": "Palidez por vasoconstricción",
+    "explanation": "El primer síntoma es la palidez debido a la vasoconstricción (no hay dolor aún).",
+    "meta": {
+      "original_question_number": 40,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q41",
+    "type": "single_choice",
+    "question": "¿Qué zonas son las más vulnerables de sufrir congelación?",
+    "options": [
+      "Pecho y abdomen",
+      "Espalda y hombros",
+      "Manos, pies, nariz y orejas",
+      "Muslos y brazos"
+    ],
+    "correct_answer": "Manos, pies, nariz y orejas",
+    "explanation": "Son las zonas más expuestas y con menor riego sanguíneo.",
+    "meta": {
+      "original_question_number": 41,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q42",
+    "type": "single_choice",
+    "question": "¿Qué indica el tejido ennegrecido en una congelación de tercer grado?",
+    "options": [
+      "Que la piel se está curando",
+      "Muerte de los tejidos (necrosis) y gangrena",
+      "Un simple moratón",
+      "Que hay buena circulación"
+    ],
+    "correct_answer": "Muerte de los tejidos (necrosis) y gangrena",
+    "explanation": "El tejido ennegrecido indica la muerte de los tejidos (necrosis) y gangrena.",
+    "meta": {
+      "original_question_number": 42,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q43",
+    "type": "single_choice",
+    "question": "¿Cuándo se debe movilizar a un herido inconsciente?",
+    "options": [
+      "Siempre que queramos estar más cómodos",
+      "Solo si es imprescindible para evitar un daño mayor o peligro vital",
+      "Nunca, bajo ninguna circunstancia",
+      "Para ver si tiene heridas en la espalda"
+    ],
+    "correct_answer": "Solo si es imprescindible para evitar un daño mayor o peligro vital",
+    "explanation": "Los heridos inconscientes solo serán trasladados si es imprescindible para evitar un daño mayor (incendio, falta de respiración, etc.).",
+    "meta": {
+      "original_question_number": 43,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q44",
+    "type": "single_choice",
+    "question": "¿Para qué se utiliza la maniobra de Rautek?",
+    "options": [
+      "Para curar quemaduras de cara",
+      "Para extraer a un herido del interior de un vehículo",
+      "Para inmovilizar el tobillo",
+      "Para realizar el masaje cardiaco"
+    ],
+    "correct_answer": "Para extraer a un herido del interior de un vehículo",
+    "explanation": "La maniobra de Rautek consiste en una serie de movimientos para extraer a un herido de un vehículo por una sola persona.",
+    "meta": {
+      "original_question_number": 44,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q45",
+    "type": "single_choice",
+    "question": "¿Qué posición de espera es la adecuada para problemas respiratorios?",
+    "options": [
+      "Posición antishock",
+      "Decúbito supino",
+      "Posición sentada (Fowler) o semisentada",
+      "Posición lateral de seguridad"
+    ],
+    "correct_answer": "Posición sentada (Fowler) o semisentada",
+    "explanation": "Esta posición es adecuada siempre que el paciente esté consciente y tenga problemas respiratorios o cardiacos.",
+    "meta": {
+      "original_question_number": 45,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q46",
+    "type": "single_choice",
+    "question": "¿Cuál es la posición de abdomen agudo?",
+    "options": [
+      "Decúbito supino con piernas estiradas",
+      "Decúbito supino con piernas flexionadas",
+      "Tumbado de lado izquierdo",
+      "Sentado con el tronco hacia adelante"
+    ],
+    "correct_answer": "Decúbito supino con piernas flexionadas",
+    "explanation": "El herido con traumatismo abdominal se coloca boca arriba con piernas flexionadas para reducir la presión intrabdominal y el dolor.",
+    "meta": {
+      "original_question_number": 46,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q47",
+    "type": "single_choice",
+    "question": "¿Qué técnica de movilización se usa para una víctima ligera sin traumatismos serios?",
+    "options": [
+      "Método del bombero",
+      "Arrastre por axilas",
+      "En brazos",
+      "Maniobra de Rautek"
+    ],
+    "correct_answer": "En brazos",
+    "explanation": "Es una técnica adecuada cuando la víctima es ligera y no sufre traumatismos serios.",
+    "meta": {
+      "original_question_number": 47,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  },
+  {
+    "id": "tema3_q48",
+    "type": "single_choice",
+    "question": "¿Qué permite el 'Método del bombero'?",
+    "options": [
+      "Arrastrar a alguien muy corpulento por el suelo",
+      "Mover a una persona inconsciente dejando una mano libre al socorrista",
+      "Sacar a alguien de un coche en llamas",
+      "Curar heridas mientras se camina"
+    ],
+    "correct_answer": "Mover a una persona inconsciente dejando una mano libre al socorrista",
+    "explanation": "Permite mover a una persona inconsciente y deja al socorrista una mano libre (para linterna, máscara, etc.).",
+    "meta": {
+      "original_question_number": 48,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q49",
+    "type": "single_choice",
+    "question": "¿Cuántos largueros se necesitan para confeccionar una camilla improvisada?",
+    "options": [
+      "Uno central",
+      "Dos largueros resistentes",
+      "Cuatro palos cortos",
+      "No se necesitan largueros"
+    ],
+    "correct_answer": "Dos largueros resistentes",
+    "explanation": "En todos los casos de camillas improvisadas necesitamos dos largueros sobre los que montar la manta, camisas o cuerdas.",
+    "meta": {
+      "original_question_number": 49,
+      "correct_letter": "B"
+    },
+    "correct_index": 1
+  },
+  {
+    "id": "tema3_q50",
+    "type": "single_choice",
+    "question": "¿Qué peso mínimo debe aguantar la cuerda en una camilla improvisada?",
+    "options": [
+      "50 kg",
+      "80 kg",
+      "120 kg",
+      "200 kg"
+    ],
+    "correct_answer": "120 kg",
+    "explanation": "La cuerda utilizada debe ser del grosor suficiente para aguantar un peso mínimo de 120 kg.",
+    "meta": {
+      "original_question_number": 50,
+      "correct_letter": "C"
+    },
+    "correct_index": 2
+  }
+  ]
+}
