@@ -6,7 +6,6 @@
     "show_progress": true
   },
   "questions": [
-[
   {
     "id": "tema1_q1",
     "type": "single_choice",
@@ -2707,4 +2706,5 @@
     },
     "correct_index": 2
   }
+]
 }
