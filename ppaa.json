@@ -6,7 +6,7 @@
     "show_progress": true
   },
   "questions": [
-  {
+      {
     "id": "tema1_q1",
     "type": "single_choice",
     "question": "¿Cómo se define una situación de emergencia según el temario?",
@@ -2705,6 +2705,96 @@
       "correct_letter": "C"
     },
     "correct_index": 2
-  }
- ]
+  },
+    {
+  "id": "tema4_q1",
+  "type": "single_choice",
+  "question": "¿Qué elemento del proceso comunicativo se define como el conjunto de signos y reglas que permiten formular un mensaje?",
+  "options": [
+    "Canal",
+    "Código",
+    "Contexto",
+    "Retroalimentación"
+  ],
+  "correct_answer": "Código",
+  "explanation": "El código es el sistema de signos mediante el cual se transmite el mensaje y debe ser conocido por emisor y receptor.",
+  "meta": {
+    "original_question_number": 1,
+    "correct_letter": "B"
+  },
+  "correct_index": 1
+},
+{
+  "id": "tema4_q2",
+  "type": "single_choice",
+  "question": "¿Cuál es el canal en la comunicación oral según el manual?",
+  "options": [
+    "El papel",
+    "El aire",
+    "La línea telefónica",
+    "Un dispositivo electrónico"
+  ],
+  "correct_answer": "El aire",
+  "explanation": "En la comunicación oral el canal utilizado es el aire.",
+  "meta": {
+    "original_question_number": 2,
+    "correct_letter": "B"
+  },
+  "correct_index": 1
+},
+{
+  "id": "tema4_q3",
+  "type": "single_choice",
+  "question": "¿Qué ventaja principal ofrece la comunicación escrita respecto a la oral?",
+  "options": [
+    "La inmediatez del feedback",
+    "El uso de lenguaje no verbal",
+    "La permanencia y fiabilidad en el tiempo",
+    "La facilidad para transmitir emociones inconscientes"
+  ],
+  "correct_answer": "La permanencia y fiabilidad en el tiempo",
+  "explanation": "La comunicación escrita permite conservar el mensaje y releerlo sin que cambie su significado.",
+  "meta": {
+    "original_question_number": 3,
+    "correct_letter": "C"
+  },
+  "correct_index": 2
+},
+{
+  "id": "tema4_q4",
+  "type": "single_choice",
+  "question": "¿Cómo se denomina la información que el receptor devuelve al emisor confirmando la recepción del mensaje?",
+  "options": [
+    "Contexto",
+    "Distorsión",
+    "Retroalimentación",
+    "Código"
+  ],
+  "correct_answer": "Retroalimentación",
+  "explanation": "La retroalimentación permite al emisor saber si el mensaje ha sido comprendido correctamente.",
+  "meta": {
+    "original_question_number": 4,
+    "correct_letter": "C"
+  },
+  "correct_index": 2
+},
+{
+  "id": "tema4_q5",
+  "type": "single_choice",
+  "question": "¿Cuál es un inconveniente destacado de la comunicación oral?",
+  "options": [
+    "No permite la retroalimentación",
+    "Los mensajes pueden resultar alterados en el recuerdo",
+    "Requiere obligatoriamente un dispositivo electrónico",
+    "Es menos precisa que los gestos"
+  ],
+  "correct_answer": "Los mensajes pueden resultar alterados en el recuerdo",
+  "explanation": "La comunicación oral puede ser menos precisa porque el mensaje puede alterarse al recordarlo.",
+  "meta": {
+    "original_question_number": 5,
+    "correct_letter": "B"
+  },
+  "correct_index": 1
+}
+  ]
 }
