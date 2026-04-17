@@ -6,6 +6,7 @@
     "show_progress": true
   },
   "questions": [
+
       {
     "id": "tema1_q1",
     "type": "single_choice",
@@ -2706,95 +2707,505 @@
     },
     "correct_index": 2
   },
-    {
-  "id": "tema4_q1",
-  "type": "single_choice",
-  "question": "¿Qué elemento del proceso comunicativo se define como el conjunto de signos y reglas que permiten formular un mensaje?",
-  "options": [
-    "Canal",
-    "Código",
-    "Contexto",
-    "Retroalimentación"
-  ],
-  "correct_answer": "Código",
-  "explanation": "El código es el sistema de signos mediante el cual se transmite el mensaje y debe ser conocido por emisor y receptor.",
-  "meta": {
-    "original_question_number": 1,
-    "correct_letter": "B"
+     {
+  "id":"tema4_q1",
+  "type":"single_choice",
+  "question":"¿Qué elemento del proceso comunicativo se define como el conjunto de signos y reglas que permiten formular un mensaje?",
+  "options":["Canal","Código","Contexto","Retroalimentación"],
+  "correct_answer":"Código",
+  "explanation":"Según la fuente, el código es el sistema de signos (como el idioma) mediante el cual se transmite el mensaje, y debe ser conocido por emisor y receptor.",
+  "meta":{"original_question_number":1,"correct_letter":"B"},
+  "correct_index":1
   },
-  "correct_index": 1
-},
-{
-  "id": "tema4_q2",
-  "type": "single_choice",
-  "question": "¿Cuál es el canal en la comunicación oral según el manual?",
-  "options": [
-    "El papel",
-    "El aire",
-    "La línea telefónica",
-    "Un dispositivo electrónico"
-  ],
-  "correct_answer": "El aire",
-  "explanation": "En la comunicación oral el canal utilizado es el aire.",
-  "meta": {
-    "original_question_number": 2,
-    "correct_letter": "B"
+  {
+  "id":"tema4_q2",
+  "type":"single_choice",
+  "question":"¿Cuál es el canal en la comunicación oral según el manual?",
+  "options":["El papel","El aire","La línea telefónica","Un dispositivo electrónico"],
+  "correct_answer":"El aire",
+  "explanation":"La fuente especifica que en la modalidad de comunicación oral, el canal utilizado es el aire.",
+  "meta":{"original_question_number":2,"correct_letter":"B"},
+  "correct_index":1
   },
-  "correct_index": 1
-},
-{
-  "id": "tema4_q3",
-  "type": "single_choice",
-  "question": "¿Qué ventaja principal ofrece la comunicación escrita respecto a la oral?",
-  "options": [
-    "La inmediatez del feedback",
-    "El uso de lenguaje no verbal",
-    "La permanencia y fiabilidad en el tiempo",
-    "La facilidad para transmitir emociones inconscientes"
-  ],
-  "correct_answer": "La permanencia y fiabilidad en el tiempo",
-  "explanation": "La comunicación escrita permite conservar el mensaje y releerlo sin que cambie su significado.",
-  "meta": {
-    "original_question_number": 3,
-    "correct_letter": "C"
+  {
+  "id":"tema4_q3",
+  "type":"single_choice",
+  "question":"¿Qué ventaja principal ofrece la comunicación escrita respecto a la oral?",
+  "options":["La inmediatez del feedback","El uso de lenguaje no verbal","La permanencia y fiabilidad en el tiempo","La facilidad para transmitir emociones inconscientes"],
+  "correct_answer":"La permanencia y fiabilidad en el tiempo",
+  "explanation":"Como indica la fuente, la comunicación escrita tiene como ventaja la permanencia del mensaje, lo que permite ser releído sin que su sentido se altere con el tiempo.",
+  "meta":{"original_question_number":3,"correct_letter":"C"},
+  "correct_index":2
   },
-  "correct_index": 2
-},
-{
-  "id": "tema4_q4",
-  "type": "single_choice",
-  "question": "¿Cómo se denomina la información que el receptor devuelve al emisor confirmando la recepción del mensaje?",
-  "options": [
-    "Contexto",
-    "Distorsión",
-    "Retroalimentación",
-    "Código"
-  ],
-  "correct_answer": "Retroalimentación",
-  "explanation": "La retroalimentación permite al emisor saber si el mensaje ha sido comprendido correctamente.",
-  "meta": {
-    "original_question_number": 4,
-    "correct_letter": "C"
+  {
+  "id":"tema4_q4",
+  "type":"single_choice",
+  "question":"¿Cómo se denomina la información que el receptor devuelve al emisor confirmando la recepción del mensaje?",
+  "options":["Contexto","Distorisón","Retroalimentación","Código"],
+  "correct_answer":"Retroalimentación",
+  "explanation":"La fuente menciona que la retroalimentación o feedback permite al emisor saber si el mensaje ha sido comprendido correctamente.",
+  "meta":{"original_question_number":4,"correct_letter":"C"},
+  "correct_index":2
   },
-  "correct_index": 2
-},
-{
-  "id": "tema4_q5",
-  "type": "single_choice",
-  "question": "¿Cuál es un inconveniente destacado de la comunicación oral?",
-  "options": [
-    "No permite la retroalimentación",
-    "Los mensajes pueden resultar alterados en el recuerdo",
-    "Requiere obligatoriamente un dispositivo electrónico",
-    "Es menos precisa que los gestos"
-  ],
-  "correct_answer": "Los mensajes pueden resultar alterados en el recuerdo",
-  "explanation": "La comunicación oral puede ser menos precisa porque el mensaje puede alterarse al recordarlo.",
-  "meta": {
-    "original_question_number": 5,
-    "correct_letter": "B"
+  {
+  "id":"tema4_q5",
+  "type":"single_choice",
+  "question":"¿Cuál es un inconveniente destacado de la comunicación oral?",
+  "options":["No permite la retroalimentación","Los mensajes pueden resultar alterados en el recuerdo","Requiere obligatoriamente un dispositivo electrónico","Es menos precisa que los gestos"],
+  "correct_answer":"Los mensajes pueden resultar alterados en el recuerdo",
+  "explanation":"Según la fuente, la comunicación oral resulta más imprecisa debido a que los mensajes pueden alterarse en el recuerdo del receptor.",
+  "meta":{"original_question_number":5,"correct_letter":"B"},
+  "correct_index":1
   },
-  "correct_index": 1
-}
+  {
+  "id":"tema4_q6",
+  "type":"single_choice",
+  "question":"La comunicación no verbal se basa principalmente en:",
+  "options":["La palabra escrita","La palabra hablada","Los gestos, miradas y posturas","El uso exclusivo de un idioma compartido"],
+  "correct_answer":"Los gestos, miradas y posturas",
+  "explanation":"La fuente define la comunicación no verbal como aquella que se basa en gestos, miradas, posturas y tono de voz.",
+  "meta":{"original_question_number":6,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q7",
+  "type":"single_choice",
+  "question":"¿En qué caso se puede producir distorsión por el contexto comunicativo?",
+  "options":["Si hay ruidos en la línea telefónica","Si emisor y receptor no comparten el mismo momento o situación","Si falta vocabulario en el emisor","Si el mensaje es demasiado largo"],
+  "correct_answer":"Si emisor y receptor no comparten el mismo momento o situación",
+  "explanation":"La fuente indica que si emisor y receptor no comparten el mismo contexto, el mensaje se verá alterado.",
+  "meta":{"original_question_number":7,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q8",
+  "type":"single_choice",
+  "question":"¿Cómo se denomina el mecanismo de defensa en el que el individuo se niega a aceptar que la situación ha sucedido?",
+  "options":["Regresión","Negación","Intelectualización","Racionalización"],
+  "correct_answer":"Negación",
+  "explanation":"La fuente define la negación como el mecanismo donde el individuo se niega a aceptar la realidad de la situación e insiste en que no ha sucedido.",
+  "meta":{"original_question_number":8,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q9",
+  "type":"single_choice",
+  "question":"Cuando un adulto ante un accidente adopta una actitud infantil buscando seguridad, está usando el mecanismo de:",
+  "options":["Represión","Autoagresión","Regresión","Sustitución"],
+  "correct_answer":"Regresión",
+  "explanation":"Según la fuente, la regresión consiste en volver psicológicamente a una etapa de seguridad como es la infancia.",
+  "meta":{"original_question_number":9,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q10",
+  "type":"single_choice",
+  "question":"¿Qué caracteriza al mecanismo de defensa de la 'Intelectualización'?",
+  "options":["Olvido total de la situación","Justificación racional del suceso","Racionalización con aislamiento emocional de lo sucedido","Agresión hacia terceras personas"],
+  "correct_answer":"Racionalización con aislamiento emocional de lo sucedido",
+  "explanation":"La fuente explica que en la intelectualización se racionaliza la situación actuando con un aislamiento emocional.",
+  "meta":{"original_question_number":10,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q11",
+  "type":"single_choice",
+  "question":"¿En qué consiste el mecanismo de 'Sustitución o desplazamiento'?",
+  "options":["En huir físicamente del lugar del accidente","En dirigir la ansiedad generada hacia otra persona u objeto menos amenazador","En culparse a uno mismo de lo ocurrido","En no recordar nada de lo sucedido"],
+  "correct_answer":"En dirigir la ansiedad generada hacia otra persona u objeto menos amenazador",
+  "explanation":"Según la fuente, este mecanismo redirige la ansiedad hacia objetos o personas que no son la causa original del estrés.",
+  "meta":{"original_question_number":11,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q12",
+  "type":"single_choice",
+  "question":"La técnica de ayuda psicológica 'Apoyo' tiene como objetivo principal:",
+  "options":["Ayudar a la víctima a decidir qué hacer","Hacer sentir a la persona que está acompañada","Realizar una cura física de urgencia","Explicar técnicamente las causas del siniestro"],
+  "correct_answer":"Hacer sentir a la persona que está acompañada",
+  "explanation":"La fuente establece que el punto de 'Apoyo' se trata de hacer sentir a la persona que está acompañada.",
+  "meta":{"original_question_number":12,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q13",
+  "type":"single_choice",
+  "question":"¿Qué técnica facilita la comunicación permitiendo que la víctima exprese sus sentimientos y temores?",
+  "options":["Orientación","Intelectualización","Escucha","Sustitución"],
+  "correct_answer":"Escucha",
+  "explanation":"Según la fuente, la técnica de 'Escucha' ayuda a la persona afectada a expresar sus sentimientos y temores.",
+  "meta":{"original_question_number":13,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q14",
+  "type":"single_choice",
+  "question":"¿Cuándo se debe aplicar la técnica de 'Orientación' en los primeros auxilios psicológicos?",
+  "options":["Cuando la víctima muestra confusión o aturdimiento","Cuando la víctima está inconsciente","Solo en accidentes de tráfico graves","Cuando la víctima se autoagrede"],
+  "correct_answer":"Cuando la víctima muestra confusión o aturdimiento",
+  "explanation":"La fuente indica que si la víctima muestra confusión, debemos intentar orientarla para ayudarle a decidir sobre qué hacer.",
+  "meta":{"original_question_number":14,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema4_q15",
+  "type":"single_choice",
+  "question":"¿Cuál es un factor que NO determina la gravedad de una intoxicación según el manual?",
+  "options":["La cantidad absorbida","La vía de administración","La marca comercial del producto","El tiempo de exposición"],
+  "correct_answer":"La marca comercial del producto",
+  "explanation":"La fuente enumera factores como tipo de tóxico, cantidad, vía, concentración, tiempo y estado de la víctima, pero no menciona la marca.",
+  "meta":{"original_question_number":15,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q16",
+  "type":"single_choice",
+  "question":"¿Cómo se denomina la dilatación exagerada de las pupilas en un intoxicado?",
+  "options":["Miosis","Nistagmo","Midriasis","Ptosis"],
+  "correct_answer":"Midriasis",
+  "explanation":"La fuente define explícitamente la midriasis como la dilatación exagerada de las pupilas.",
+  "meta":{"original_question_number":16,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q17",
+  "type":"single_choice",
+  "question":"La miosis en una intoxicación se refiere a:",
+  "options":["La dilatación de las pupilas","La contracción permanente de las pupilas","Movimientos rápidos de los ojos","Pérdida de la visión"],
+  "correct_answer":"La contracción permanente de las pupilas",
+  "explanation":"La fuente indica que la contracción permanente de las pupilas se denomina miosis.",
+  "meta":{"original_question_number":17,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q18",
+  "type":"single_choice",
+  "question":"¿Qué es el nistagmo?",
+  "options":["Una parálisis muscular","Vómitos frecuentes","Movimientos rápidos e involuntarios de los globos oculares","Confusión mental profunda"],
+  "correct_answer":"Movimientos rápidos e involuntarios de los globos oculares",
+  "explanation":"Según la fuente, el nistagmo consiste en movimientos rápidos e involuntarios de los globos oculares.",
+  "meta":{"original_question_number":18,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q19",
+  "type":"single_choice",
+  "question":"La vía de intoxicación más habitual en las salas de urgencias es la:",
+  "options":["Respiratoria","Digestiva","Cutánea","Transcutánea"],
+  "correct_answer":"Digestiva",
+  "explanation":"La fuente indica que la mayoría de las intoxicaciones que llegan a urgencias son de tipo digestivo.",
+  "meta":{"original_question_number":19,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q20",
+  "type":"single_choice",
+  "question":"Si un tóxico atraviesa la piel y entra directamente en el torrente sanguíneo, la vía es:",
+  "options":["Cutánea","Trascutánea","Digestiva","Respiratoria"],
+  "correct_answer":"Trascutánea",
+  "explanation":"La fuente aclara que cuando el tóxico atraviesa la piel y entra en el torrente sanguíneo hablamos de vía trascutánea.",
+  "meta":{"original_question_number":20,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q21",
+  "type":"single_choice",
+  "question":"¿Qué síntoma ocular está relacionado con la intoxicación según el manual?",
+  "options":["Visión borrosa","Lagrimeo excesivo","Cambio en el color del iris","Mejora de la agudeza visual"],
+  "correct_answer":"Visión borrosa",
+  "explanation":"La fuente lista la visión borrosa como uno de los síntomas oculares de una intoxicación aguda.",
+  "meta":{"original_question_number":21,"correct_letter":"A"},
+  "correct_index":0
+  },
+  {
+  "id":"tema4_q22",
+  "type":"single_choice",
+  "question":"¿Cuál es un signo externo que puede hacernos sospechar de una intoxicación?",
+  "options":["La presencia de una fractura expuesta","Olor a gas o humo en el lugar","La temperatura ambiental fría","La hora del día"],
+  "correct_answer":"Olor a gas o humo en el lugar",
+  "explanation":"Según la fuente, indicaciones externas como olor a gas, humo o medicamentos abiertos pueden hacernos sospechar una intoxicación.",
+  "meta":{"original_question_number":22,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q23",
+  "type":"single_choice",
+  "question":"¿Qué porcentaje de las intoxicaciones que llegan a urgencias se consideran leves?",
+  "options":["50 %","20 %","80 %","5 %"],
+  "correct_answer":"80 %",
+  "explanation":"La fuente afirma que la mayoría de las intoxicaciones son leves, siendo el 80 % de las que llegan a urgencias de este tipo.",
+  "meta":{"original_question_number":23,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q24",
+  "type":"single_choice",
+  "question":"¿Cuál es la reacción inmunológica más grave ante el contacto con un alérgeno?",
+  "options":["Asma bronquial","Angina de pecho","Choque anafiláctico","Miosis"],
+  "correct_answer":"Choque anafiláctico",
+  "explanation":"La fuente define el choque anafiláctico como una reacción inmunológica generalizada y potencialmente mortal.",
+  "meta":{"original_question_number":24,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q25",
+  "type":"single_choice",
+  "question":"¿Qué síntoma general es frecuente en un choque anafiláctico?",
+  "options":["Sensación de hambre","Sensación de muerte inminente","Somnolencia extrema","Hemorragia nasal"],
+  "correct_answer":"Sensación de muerte inminente",
+  "explanation":"La fuente menciona entre los síntomas generales la ansiedad y la sensación de muerte inminente.",
+  "meta":{"original_question_number":25,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q26",
+  "type":"single_choice",
+  "question":"¿Cuál es una característica fundamental del choque anafiláctico que permite la recuperación del enfermo?",
+  "options":["Su lentitud de progresión","Su extraordinaria reversibilidad bajo tratamiento adecuado","Que no afecta al sistema cardiovascular","Que desaparece solo sin medicación"],
+  "correct_answer":"Su extraordinaria reversibilidad bajo tratamiento adecuado",
+  "explanation":"Como indica la fuente, el choque anafiláctico destaca por su extraordinaria reversibilidad con tratamiento adecuado.",
+  "meta":{"original_question_number":26,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q27",
+  "type":"single_choice",
+  "question":"¿Cuántas fases tiene el proceso de parto humano natural según el manual?",
+  "options":["Dos","Tres","Cuatro","Cinco"],
+  "correct_answer":"Tres",
+  "explanation":"La fuente establece que el proceso de parto natural tiene tres fases: dilatación, expulsión y alumbramiento.",
+  "meta":{"original_question_number":27,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q28",
+  "type":"single_choice",
+  "question":"¿Cómo se denomina la fase en la que se produce el nacimiento del bebé?",
+  "options":["Dilatación","Alumbramiento","Expulsión","Borramiento"],
+  "correct_answer":"Expulsión",
+  "explanation":"La fuente define la fase de expulsión como el periodo que termina con el nacimiento del bebé.",
+  "meta":{"original_question_number":28,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q29",
+  "type":"single_choice",
+  "question":"¿En qué consiste la fase de alumbramiento?",
+  "options":["En la salida del bebé por el canal del parto","En la dilatación del cuello uterino","En la expulsión de la placenta y el cordón umbilical","En la ruptura de membranas"],
+  "correct_answer":"En la expulsión de la placenta y el cordón umbilical",
+  "explanation":"Según la fuente, el alumbramiento comienza con la expulsión de la placenta, el cordón y las membranas.",
+  "meta":{"original_question_number":29,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q30",
+  "type":"single_choice",
+  "question":"¿Cuánto tiempo suele durar aproximadamente la fase de alumbramiento?",
+  "options":["De 3 a 15 minutos","De 5 a 30 minutos","Más de una hora","Ocurre de forma instantánea al nacer el bebé"],
+  "correct_answer":"De 5 a 30 minutos",
+  "explanation":"La fuente especifica que la fase de alumbramiento lleva entre 5 y 30 minutos.",
+  "meta":{"original_question_number":30,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q31",
+  "type":"single_choice",
+  "question":"¿Qué indica que se ha completado la dilatación en el parto?",
+  "options":["La expulsión del tapón mucoso","Un diámetro de 10 centímetros del cuello uterino","La salida de los hombros del bebé","El inicio de las primeras contracciones"],
+  "correct_answer":"Un diámetro de 10 centímetros del cuello uterino",
+  "explanation":"La fuente indica que la etapa de dilatación termina con la dilatación completa de 10 centímetros.",
+  "meta":{"original_question_number":31,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q32",
+  "type":"single_choice",
+  "question":"¿Qué NO se debe hacer durante el alumbramiento de la placenta?",
+  "options":["Abrigar a la madre","Vigilar hemorragias","Tirar del cordón umbilical para ayudar a su salida","Mantener la higiene"],
+  "correct_answer":"Tirar del cordón umbilical para ayudar a su salida",
+  "explanation":"La fuente advierte explícitamente que tirar del cordón para ayudar a la expulsión puede provocar que se rompa.",
+  "meta":{"original_question_number":32,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q33",
+  "type":"single_choice",
+  "question":"¿Cuál es la posición recomendada para facilitar el parto inminente?",
+  "options":["Sobre su espalda con piernas estiradas","Tumbada de lado en posición lateral de seguridad","Sobre su espalda con rodillas flexionadas y pies en el suelo","De pie caminando"],
+  "correct_answer":"Sobre su espalda con rodillas flexionadas y pies en el suelo",
+  "explanation":"La fuente indica que esta postura favorece la salida del niño y permite puntos de apoyo para la madre.",
+  "meta":{"original_question_number":33,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q34",
+  "type":"single_choice",
+  "question":"¿Qué procedimiento es correcto tras el nacimiento del bebé respecto al cordón umbilical?",
+  "options":["Cortarlo inmediatamente con cualquier tijera","Ligar el cordón solo cuando este haya dejado de latir","Tirar de él para que salga la placenta antes","Nudarlo con fuerza antes de que el bebé llore"],
+  "correct_answer":"Ligar el cordón solo cuando este haya dejado de latir",
+  "explanation":"Según la información técnica implícita en la actuación de socorro del manual (proceso natural), el cordón no debe manipularse bruscamente y la placenta debe salir sola.",
+  "meta":{"original_question_number":34,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q35",
+  "type":"single_choice",
+  "question":"¿Qué síntoma se relaciona con el sistema muscular en una intoxicación?",
+  "options":["Alucinaciones","Diarreas","Calambres y contracciones involuntarias","Miosis"],
+  "correct_answer":"Calambres y contracciones involuntarias",
+  "explanation":"La fuente vincula los calambres y contracciones musculares involuntarias con los síntomas del sistema muscular ante un tóxico.",
+  "meta":{"original_question_number":35,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q36",
+  "type":"single_choice",
+  "question":"¿Cómo se denomina la actitud de racionalizar una situación atropellada alegando 'no hay visibilidad'?",
+  "options":["Negación","Regresión","Racionalización","Represión"],
+  "correct_answer":"Racionalización",
+  "explanation":"La fuente pone como ejemplo de racionalización el intentar justificar un atropello por falta de visibilidad.",
+  "meta":{"original_question_number":36,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q37",
+  "type":"single_choice",
+  "question":"¿Cuál es una habilidad básica que mejora la comunicación interpersonal en emergencias?",
+  "options":["Autoridad","Empatía","Intelectualización","Racionalización"],
+  "correct_answer":"Empatía",
+  "explanation":"La fuente menciona la asertividad, la escucha activa y la empatía como habilidades básicas para mejorar la comunicación.",
+  "meta":{"original_question_number":37,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q38",
+  "type":"single_choice",
+  "question":"¿Qué indica la salida del tapón mucoso cervical?",
+  "options":["Que la placenta se ha desprendido","Que el bebé ha nacido","Que el trabajo de parto puede haber iniciado","Que la madre tiene una infección"],
+  "correct_answer":"Que el trabajo de parto puede haber iniciado",
+  "explanation":"La fuente cita la expulsión del tapón mucoso cervical como uno de los signos frecuentes del inicio del trabajo de parto.",
+  "meta":{"original_question_number":38,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q39",
+  "type":"single_choice",
+  "question":"En una intoxicación digestiva por un producto corrosivo, ¿qué medida de primeros auxilios NO es adecuada?",
+  "options":["Trasladar urgente al centro sanitario","Separar a la víctima del tóxico","Provocar el vómito","Identificar el tóxico"],
+  "correct_answer":"Provocar el vómito",
+  "explanation":"En la fuente del tema 3 (referenciada en la UT4 como excepción de actuación general), se indica que no se debe provocar el vómito en quemaduras químicas por vía digestiva.",
+  "meta":{"original_question_number":39,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q40",
+  "type":"single_choice",
+  "question":"¿Qué factor predispone a la ansiedad en una emergencia?",
+  "options":["La edad del socorrista únicamente","La formación y las vivencias previas","El color de la ropa de las víctimas","El tipo de idioma utilizado"],
+  "correct_answer":"La formación y las vivencias previas",
+  "explanation":"La fuente indica que las características personales, la formación y las vivencias previas influyen en la reacción ante una emergencia.",
+  "meta":{"original_question_number":40,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q41",
+  "type":"single_choice",
+  "question":"¿Qué síntoma del sistema nervioso es común en intoxicaciones agudas?",
+  "options":["Diarreas","Hipo","Alucinaciones","Cianosis"],
+  "correct_answer":"Alucinaciones",
+  "explanation":"La fuente lista las alucinaciones como síntoma relacionado con el sistema nervioso en una intoxicación.",
+  "meta":{"original_question_number":41,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q42",
+  "type":"single_choice",
+  "question":"¿Qué significa 'romper aguas'?",
+  "options":["Expulsión del tapón mucoso","Ruptura de las membranas que envuelven el líquido amniótico","Expulsión de la placenta","Nacimiento del bebé"],
+  "correct_answer":"Ruptura de las membranas que envuelven el líquido amniótico",
+  "explanation":"La fuente asocia la ruptura de membranas con el término 'romper aguas'.",
+  "meta":{"original_question_number":42,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q43",
+  "type":"single_choice",
+  "question":"En los Primeros Auxilios Psicológicos, ante una víctima aturdida debemos:",
+  "options":["Dejarla sola para que reflexione","Intentar orientarla y ayudarle a decidir","Pedirle que olvide lo sucedido rápidamente","Tratarla como a un niño (regresión)"],
+  "correct_answer":"Intentar orientarla y ayudarle a decidir",
+  "explanation":"La fuente indica que si muestra confusión o aturdimiento debemos intentar orientarla.",
+  "meta":{"original_question_number":43,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q44",
+  "type":"single_choice",
+  "question":"¿Cuál de estos es un síntoma digestivo de intoxicación?",
+  "options":["Midriasis","Salivación abundante","Vértigos","Calambres"],
+  "correct_answer":"Salivación abundante",
+  "explanation":"La fuente incluye la salivación abundante y sequedad bucal entre los síntomas digestivos.",
+  "meta":{"original_question_number":44,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q45",
+  "type":"single_choice",
+  "question":"En el choque anafiláctico, la cianosis es un síntoma de:",
+  "options":["Levedad","Mejoría inmediata","Gravedad","Falta de alérgenos"],
+  "correct_answer":"Gravedad",
+  "explanation":"La fuente cataloga la aparición de cianosis como un síntoma de gravedad en el choque anafiláctico.",
+  "meta":{"original_question_number":45,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q46",
+  "type":"single_choice",
+  "question":"¿Qué elemento comunicativo es el soporte físico por el que circula el mensaje?",
+  "options":["Emisor","Canal","Código","Receptor"],
+  "correct_answer":"Canal",
+  "explanation":"Aunque no está definido textualmente de forma aislada, en y se explica que el canal (aire, papel, línea telefónica) es el medio por el que se envía el mensaje.",
+  "meta":{"original_question_number":46,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q47",
+  "type":"single_choice",
+  "question":"La intoxicación producida por la inhalación de humo es de vía:",
+  "options":["Digestiva","Cutánea","Respiratoria","Transcutánea"],
+  "correct_answer":"Respiratoria",
+  "explanation":"Según la fuente, la inhalación de humo o gas es una intoxicación por vía respiratoria.",
+  "meta":{"original_question_number":47,"correct_letter":"C"},
+  "correct_index":2
+  },
+  {
+  "id":"tema4_q48",
+  "type":"single_choice",
+  "question":"¿Qué debe hacerse con el recién nacido inmediatamente después del parto?",
+  "options":["Bañarlo con agua fría","Limpiar la mucosidad de boca y nariz y abrigarlo","Separarlo de la madre hasta el alumbramiento","Darle de comer sólidos"],
+  "correct_answer":"Limpiar la mucosidad de boca y nariz y abrigarlo",
+  "explanation":"Basado en las pautas generales de socorro y cuidado del bebé, lo prioritario es asegurar la vía aérea y el calor corporal.",
+  "meta":{"original_question_number":48,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q49",
+  "type":"single_choice",
+  "question":"¿Cuál es la frecuencia típica de las contracciones al inicio del trabajo de parto?",
+  "options":["Cada 30 minutos","Cada 3 - 15 minutos","Una cada hora","Cada segundo"],
+  "correct_answer":"Cada 3 - 15 minutos",
+  "explanation":"La fuente indica que las contracciones uterinas empiezan a aparecer aproximadamente cada 3 - 15 minutos.",
+  "meta":{"original_question_number":49,"correct_letter":"B"},
+  "correct_index":1
+  },
+  {
+  "id":"tema4_q50",
+  "type":"single_choice",
+  "question":"¿Qué mecanismo de defensa implica el olvido total de la situación estresante?",
+  "options":["Negación","Intelectualización","Represión","Sustitución"],
+  "correct_answer":"Represión",
+  "explanation":"La fuente define la represión como el olvido completo de la situación que ha originado el estrés.",
+  "meta":{"original_question_number":50,"correct_letter":"C"},
+  "correct_index":2
+  } 
   ]
 }
